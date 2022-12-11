@@ -7,25 +7,29 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [Department of Metaphor](), at the school of [Whimsy and Caprice]().
-We are located on the 13th floor of the [Center for Wit and Sagacity]().
+Our lab is affiliated with both [School of Life Science](https://sls.westlake.edu.cn/en/About/Overview/) and the [Physics Department](https://en.westlake.edu.cn/academics/School_of_Science/About/areasofstudy/Overview/),
+in [Westlake University](https://en.westlake.edu.cn/).
+
+Westlake University is located near the beautiful and historical westlake at Hangzhou, 1 hour away from Shanghai by train. 
+
+
+
+{% include section.html full=true %}
+
+{% include banner.html image="images/Hangzhou.jpg" %}
+
+{% include section.html %}
+
+
+on the 13th floor of the [Center for Wit and Sagacity]().
 
 {%
   include link.html
   type="email"
   icon=""
-  text="scrooge@mcduck.com"
+  text="wangshouwen@westlake.edu.cn"
   tooltip=""
-  link="scrooge@mcduck.com"
-  style="button"
-%}
-{%
-  include link.html
-  type="phone"
-  icon=""
-  text="(555) 867-5309"
-  tooltip=""
-  link="+1-555-867-5309"
+  link="wangshouwen@westlake.edu.cn"
   style="button"
 %}
 {%
@@ -33,33 +37,16 @@ We are located on the 13th floor of the [Center for Wit and Sagacity]().
   type="address"
   icon=""
   text="Google Maps"
-  tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps/place/That+St+%26+The+Other+St,+Porters+Lake,+NS+B3E+1H3,+Canada/@44.7389237,-63.3033296,20.78z/data=!4m5!3m4!1s0x4b5a31023bb02565:0xb9505694e83a53d7!8m2!3d44.7389353!4d-63.3030828"
+  tooltip="Our location on Baidu Maps for easy navigation"
+  link="https://map.baidu.com/poi/%E8%A5%BF%E6%B9%96%E5%AE%9E%E9%AA%8C%E5%AE%A4/@13368202.124999996,3499936.000000002,19z?uid=2c388130d2883a94fea778d0&info_merge=1&isBizPoi=false&ugc_type=3&ugc_ver=1&device_ratio=2&compat=1&pcevaname=pc4.1&querytype=detailConInfo&da_src=shareurl"
   style="button"
 %}
 {:.center}
 
 {% include section.html %}
 
-### <i class="fas fa-mail-bulk"></i>Mailing Address
+### <i class="fas fa-mail-bulk"></i>Address
 
-That St & The Other St  
-Porters Lake, NS B3E 1H3  
-Canada
-{:.center}
-
-{% capture col1 %}
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="The Center for Wit and Sagacity"
-%}
-{% endcapture %}
-{% capture col2 %}
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Department of Metaphor"
-%}
-{% endcapture %}
-{% include two-col.html col1=col1 col2=col2 %}
+Westlake Laboratory
+Shilongshan ST #18, Xihu District, Hangzhou, Zhejiang Province, CN
+中国浙江省杭州市西湖区云栖小镇石龙山街18号
