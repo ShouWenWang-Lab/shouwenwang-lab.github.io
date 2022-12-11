@@ -2,6 +2,10 @@
 title: Home
 ---
 
+Welcome to the Wang Lab!
+
+We are a group of inter-disciplinary scientists that explore the wonder of biology by integrating single-cell genomics and machine learning. We use machine learning to refer to statistical modeling approaches inspired from either statistical physics, computer science, or applied mathematics!
+<!-- 
 # Your Lab Slogan
 
 [Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
@@ -23,11 +27,11 @@ Spend less time reinventing the wheel, and more time running your lab.
   link="https://github.com/greenelab/lab-website-template/wiki"
   style="button"
 %}
-{:.center}
+{:.center} -->
 
 {% include section.html full=true %}
 
-{% include banner.html image="images/banner.jpg" %}
+{% include banner.html image="images/banner_art.jpg" %}
 
 {% include section.html %}
 
