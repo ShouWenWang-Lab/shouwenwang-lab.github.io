@@ -27,6 +27,29 @@
   tags:
   - Lineage tracing, cell fate prediction, trajectory inference
   _cache: 98e9ba51a62ab9010a529ec36deecaef3377cf60e22d5cec9e829b0c3b7540df
+- id: 10.1038/s41586-020-2503-6
+  title: Single-cell lineage tracing unveils a role for TCF15 in haematopoiesis
+  authors:
+  - Alejo E. Rodriguez-Fraticelli
+  - Caleb Weinreb
+  - Shou-Wen Wang
+  - Rosa P. Migueles
+  - Maja Jankovic
+  - Marc Usart
+  - Allon M. Klein
+  - Sally Lowell
+  - Fernando D. Camargo
+  publisher: Nature
+  date: '2020-07-15'
+  link: https://doi.org/gg45cp
+  image: images/paper_image/tcf15.png
+  extra-links:
+  - type: source
+    link: pdfs/tcf15.pdf
+    text: pdf
+  tags:
+  - Lineage tracing, serial clonal analysis, graphic modeling
+  _cache: c6ce4f8d6486d9bf163da4c297dc157b2de7d98b835308de70f276ccde86d763
 - id: doi:10.7554/eLife.32822
   title: Sci-Hub provides access to nearly all scholarly literature
   authors:
