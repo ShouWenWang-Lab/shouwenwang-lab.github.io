@@ -1,17 +1,18 @@
 {%- assign background = page.footer | default: site.footer | default: "none" -%}
 {%- if background == "none" -%}
-  {%- assign background = nil -%}
+{%- assign background = nil -%}
 {%- endif -%}
 
 {%- assign dark = page.footer-dark -%}
 {%- if dark == nil -%}
-  {%- assign dark = site.footer-dark -%}
+{%- assign dark = site.footer-dark -%}
 {%- endif -%}
 {%- if dark == nil -%}
-  {%- assign dark = true -%}
+{%- assign dark = true -%}
 {%- endif -%}
 
-<footer {% if background %}class="background"{% endif %} {% if background %}style="--background: url('{{ background | relative_url }}')"{% endif %} data-dark="{{ dark }}">
+<footer {% if background %}class="background" {% endif %} {% if background
+  %}style="--background: url('{{ background | relative_url }}')" {% endif %} data-dark="{{ dark }}">
 
   <!--
   <div class="footer_row">
@@ -21,9 +22,9 @@
 
   <div class="footer_row">
     {%- for entry in site.links -%}
-      {%- assign key = entry[0] -%}
-      {%- assign value = entry[1] -%}
-      {%- include link.html type=key icon="" tooltip="" link=value -%}
+    {%- assign key = entry[0] -%}
+    {%- assign value = entry[1] -%}
+    {%- include link.html type=key icon="" tooltip="" link=value -%}
     {%- endfor -%}
   </div>
 
@@ -31,7 +32,6 @@
     <span>
       &copy; {{ site.time | date: '%Y' }} {{ site.title }}
       &nbsp; | &nbsp;
-      Built with <a href="https://github.com/greenelab/lab-website-template">Lab Website Template</a>
     </span>
   </div>
 
