@@ -13,7 +13,7 @@ nav:
 
 # In the pipeline
 
-L. Li, S. Bowling, Q. Yu, A. M. Klein, S.-W. Wang\*, F. D. Camargo\*, LINCAT: a high-capacity lineage recording mouse line and its application in single-cell multi-omic lineage tracing (2023, in submission).
+Li Li, Sarah Bowling, Qi Yu, Allon M. Klein, Shou-Wen Wang\*, Fernando D. Camargo\*, LINCAT: a high-capacity lineage recording mouse line and its application in single-cell multi-omic lineage tracing (2023, in submission).
 
 
 # Published
