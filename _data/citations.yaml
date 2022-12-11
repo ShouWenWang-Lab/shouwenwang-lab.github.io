@@ -11,29 +11,29 @@
   link: https://doi.org/gptgwk
   image: images/paper_image/cospar.png
   extra-links:
-  - type: source
+  - type: preprint
     link: pdfs/cospar.pdf
     text: Main text
-  - type: source
+  - type: preprint
     link: pdfs/cospar_supp.pdf
     text: Supplement methods
   - type: preprint
     link: https://cospar.readthedocs.io/en/latest/
     text: Documentation
-  - type: source
+  - type: preprint
     link: https://github.com/AllonKleinLab/cospar
     text: Code
-  - type: source
+  - type: preprint
     link: https://www.youtube.com/watch?v=rYzQUYPPNlU
     text: 1 hour video
-  - type: source
+  - type: preprint
     link: https://www.youtube.com/watch?v=HrDQpW3kJFo
     text: 20min video
   tags:
   - Lineage tracing
   - Cell fate prediction
   - Trajectory inference
-  _cache: 60d55eeb8c12c3a7b29ad1b6ebebe82b3e58ce5530b52ab445d14a221043687b
+  _cache: f97a0207bd1e7a327b5bb351243a3fa03a7f490e450282aafa886c2207c200b0
 - id: 10.1038/s41586-020-2503-6
   title: Single-cell lineage tracing unveils a role for TCF15 in haematopoiesis
   authors:
@@ -51,14 +51,14 @@
   link: https://doi.org/gg45cp
   image: images/paper_image/tcf15.png
   extra-links:
-  - type: source
+  - type: preprint
     link: pdfs/tcf_15_supp.pdf
     text: Supplement methods
   tags:
   - Lineage tracing
   - Serial clonal analysis
   - Graphic modeling
-  _cache: de21fce375df1a8c3a411a1d75d7daeca92868145e5e9482a49a26f4a268da3e
+  _cache: b0ddd4f0afbf516a928be295ede09462981fd6989605b2d75d1115e0276a1e81
 - id: 10.1038/s41467-019-13573-9
   title: Emergence of collective oscillations in adaptive cells
   authors: Shou-Wen Wang*, and Lei-Han Tang*
@@ -67,17 +67,17 @@
   link: https://doi.org/grgnv4
   image: images/paper_image/oscillation.png
   extra-links:
-  - type: source
+  - type: preprint
     link: pdfs/collective_oscillation.pdf
     text: Main text
-  - type: source
+  - type: preprint
     link: pdfs/collective_oscillation_supp.pdf
     text: Supplemental methods
   tags:
   - Collective oscillations
   - Sensory adaptation
   - Non-equilibirum statistical physics
-  _cache: b230f2c3c8e957da5406432f78c9e84ef0d13a6b841837fc3aa93ce8d9402334
+  _cache: 54ef1ebfd0659eb669ff4264770a11336ac0c9e2e31113b7cbab8e4f2017c916
 - id: 10.1103/PhysRevLett.117.070601
   title: Entropy Production of Nanosystems with Time Scale Separation
   authors:
@@ -90,10 +90,10 @@
   link: https://doi.org/gq86bn
   image: images/paper_image/entropy.png
   extra-links:
-  - type: source
+  - type: preprint
     link: pdfs/entropy_production.pdf
     text: Main text
-  - type: source
+  - type: preprint
     link: pdfs/entropy_production_supp.pdf
     text: Supplemental methods
   tags:
@@ -101,7 +101,7 @@
   - Entropy production
   - Time-scale separation
   - Coarse-graining
-  _cache: 41a409d0bde04864ad4f6f69679d4e8e681969195445ecf35b73f4dffb3157b2
+  _cache: 37d6190f027126fd3f21b18a769b7ff38e0166a8c57998b849976b32954e38cf
 - id: 10.1371/journal.pcbi.1007010
   title: Revealing evolutionary constraints on proteins through sequence analysis
   authors:
@@ -113,17 +113,17 @@
   link: https://doi.org/grgnv3
   image: images/paper_image/protein_evolution.png
   extra-links:
-  - type: source
+  - type: preprint
     link: pdfs/protein_evolution.pdf
     text: Main text
-  - type: source
+  - type: preprint
     link: pdfs/protein_evolution_supp.pdf
     text: Supplemental methods
   tags:
   - Protein evolution
   - Single-site mutation effect
   - Elastic network modeling
-  _cache: e3ad83b50bacc4a17b12bd81c307b6d90b8de0cac1b35e0eb7e16d7986a959a8
+  _cache: 20f3f6cdf984043500ada9fe4ba236392fddc2ff4c7dff044e761c9c4c24c7c1
 - id: 10.1103/PhysRevE.97.052125
   title: Inferring energy dissipation from violation of the fluctuation-dissipation
     theorem
@@ -134,13 +134,13 @@
   link: https://doi.org/gdq6vs
   image: images/paper_image/PRE_asymmetry.png
   extra-links:
-  - type: source
+  - type: preprint
     link: pdfs/PRE_my_own.pdf
     text: Main text
   tags:
   - Non-equilibirum statistical physics
   - Asymmetric transitions
-  _cache: 1a89d6210a06c1ab3efc55bf5428cb6d8e38b06f7aadb6dfa7143ec0a406b873
+  _cache: df4a5287ba2ea946e940d26093c4b6a53db797c6971750d107389cc3eb1bf8cb
 - id: 10.1088/1742-5468/2015/00/P07025
   title: Energy dissipation in an adaptive molecular circuit
   authors:
@@ -152,13 +152,13 @@
   link: https://doi.org/grgnv5
   image: images/paper_image/2015_adaptation.png
   extra-links:
-  - type: source
+  - type: preprint
     link: pdfs/energy_dissipation_and_adaptation.pdf
     text: Main text
   tags:
   - Non-equilibirum statistical physics
   - Sensory adaptation
-  _cache: 84410c634030c8103e9704ae6be9de10529ab0eb64e76e33ce4b5dc0c53004fc
+  _cache: 9662443f49834f72920daecad4002c854cedf7edd5329ac809d77f98d66ce63c
 - id: 10.1088/1751-8113/46/36/365101
   title: Nonlinear waves on circle networks with excitable nodes
   authors:
@@ -169,10 +169,10 @@
   link: https://doi.org/gkrhrk
   image: images/paper_image/2013_wave.png
   extra-links:
-  - type: source
+  - type: preprint
     link: pdfs/2013-wave.pdf
     text: Main text
   tags:
   - Nonlinear dynamics
   - Synchronization
-  _cache: b8349124acaff88eda23237dbfb41ac2d925809aa5e2a6f571a228803cef6fc8
+  _cache: 270e1fce06472797c8142736e659f8ba03239d2e5b986ccc3eabb5f53c008763
