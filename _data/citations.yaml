@@ -13,7 +13,7 @@
   publisher: Nature Biotechnology
   date: '2022-02-21'
   link: https://doi.org/gptgwk
-  image: https://user-images.githubusercontent.com/4595786/104988296-b987ce00-59e5-11eb-8dbe-a463b355a9fd.png
+  image: images/paper_image/cospar.png
   extra-links:
   - type: pdf
     link: pdfs/cospar.pdf
@@ -23,4 +23,4 @@
     link: https://github.com/AllonKleinLab/cospar
   tags:
   - Lineage tracing, cell fate prediction, trajectory inference
-  _cache: ab016ab41532981e81650682af467863c670ddea9e08df961b919e7848ee19a0
+  _cache: 0d5f1d55ea1476f8ca43245b1d971182d117174c0353076f1764b43821723a7f
