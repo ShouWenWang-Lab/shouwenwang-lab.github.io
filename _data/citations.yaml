@@ -17,16 +17,27 @@
   extra-links:
   - type: source
     link: pdfs/cospar.pdf
-    text: pdf
-  - type: website
+    text: Main text
+  - type: source
+    link: pdfs/cospar_supp.pdf
+    text: Supplement methods
+  - type: preprint
     link: https://cospar.readthedocs.io/en/latest/
     text: Documentation
   - type: source
     link: https://github.com/AllonKleinLab/cospar
     text: Code
+  - type: source
+    link: https://www.youtube.com/watch?v=rYzQUYPPNlU
+    text: 1 hour video
+  - type: source
+    link: https://www.youtube.com/watch?v=HrDQpW3kJFo
+    text: 20min video
   tags:
-  - Lineage tracing, cell fate prediction, trajectory inference
-  _cache: 98e9ba51a62ab9010a529ec36deecaef3377cf60e22d5cec9e829b0c3b7540df
+  - Lineage tracing
+  - Cell fate prediction
+  - Trajectory inference
+  _cache: 6d8d2abe6aa7d1d0fbe9e501040262fb82fbfd804fd198d0311536843419646b
 - id: 10.1038/s41586-020-2503-6
   title: Single-cell lineage tracing unveils a role for TCF15 in haematopoiesis
   authors:
@@ -45,34 +56,129 @@
   image: images/paper_image/tcf15.png
   extra-links:
   - type: source
-    link: pdfs/tcf15.pdf
-    text: pdf
+    link: pdfs/tcf_15_supp.pdf
+    text: Supplement methods
   tags:
-  - Lineage tracing, serial clonal analysis, graphic modeling
-  _cache: c6ce4f8d6486d9bf163da4c297dc157b2de7d98b835308de70f276ccde86d763
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+  - Lineage tracing
+  - Serial clonal analysis
+  - Graphic modeling
+  _cache: de21fce375df1a8c3a411a1d75d7daeca92868145e5e9482a49a26f4a268da3e
+- id: 10.1103/PhysRevLett.117.070601
+  title: Entropy Production of Nanosystems with Time Scale Separation
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  - Shou-Wen Wang
+  - Kyogo Kawaguchi
+  - Shin-ichi Sasa
+  - Lei-Han Tang
+  publisher: Physical Review Letters
+  date: '2016-08-10'
+  link: https://doi.org/gq86bn
+  image: images/paper_image/entropy.png
   extra-links:
-  - type: preprint
-    link: https://doi.org/10.7287/peerj.preprints.3100v1
-  - type: manubot
-    link: https://greenelab.github.io/scihub-manuscript/
   - type: source
-    link: https://github.com/greenelab/scihub-manuscript
-    text: Manuscript source
+    link: pdfs/entropy_production.pdf
+    text: Main text
   - type: source
-    link: https://github.com/greenelab/scihub
-    text: Analyses source
-  _cache: 483a564e9ddf847e6372cafb31de4673771c3e4da664c0d86a7ea7c38c20318d
+    link: pdfs/entropy_production_supp.pdf
+    text: Supplemental methods
+  tags:
+  - Non-equilibrium statistical physics
+  - Entropy production
+  - Time-scale separation
+  - Coarse-graining
+  _cache: 41a409d0bde04864ad4f6f69679d4e8e681969195445ecf35b73f4dffb3157b2
+- id: 10.1371/journal.pcbi.1007010
+  title: Revealing evolutionary constraints on proteins through sequence analysis
+  authors:
+  - Shou-Wen Wang
+  - Anne-Florence Bitbol
+  - Ned S. Wingreen
+  publisher: PLOS Computational Biology
+  date: '2019-04-24'
+  link: https://doi.org/grgnv3
+  image: images/paper_image/protein_evolution.png
+  extra-links:
+  - type: source
+    link: pdfs/protein_evolution.pdf
+    text: Main text
+  - type: source
+    link: pdfs/protein_evolution_supp.pdf
+    text: Supplemental methods
+  tags:
+  - Protein evolution
+  - Single-site mutation effect
+  - Elastic network modeling
+  _cache: e3ad83b50bacc4a17b12bd81c307b6d90b8de0cac1b35e0eb7e16d7986a959a8
+- id: 10.1038/s41467-019-13573-9
+  title: Emergence of collective oscillations in adaptive cells
+  authors:
+  - Shou-Wen Wang
+  - Lei-Han Tang
+  publisher: Nature Communications
+  date: '2019-12-01'
+  link: https://doi.org/grgnv4
+  image: images/paper_image/oscillation.png
+  extra-links:
+  - type: source
+    link: pdfs/collective_oscillation.pdf
+    text: Main text
+  - type: source
+    link: pdfs/collective_oscillation_supp.pdf
+    text: Supplemental methods
+  tags:
+  - Collective oscillations
+  - Sensory adaptation
+  - Non-equilibirum statistical physics
+  _cache: d94fb3e6b87ba6efbae2951f11ce4cc5cf8f83b6734243592f0f6b8e03a2fb21
+- id: 10.1103/PhysRevE.97.052125
+  title: Inferring energy dissipation from violation of the fluctuation-dissipation
+    theorem
+  authors:
+  - Shou-Wen Wang
+  publisher: Physical Review E
+  date: '2018-05-18'
+  link: https://doi.org/gdq6vs
+  image: images/paper_image/PRE_asymmetry.png
+  extra-links:
+  - type: source
+    link: pdfs/PRE_my_own.pdf
+    text: Main text
+  tags:
+  - Non-equilibirum statistical physics
+  - Asymmetric transitions
+  _cache: 1a89d6210a06c1ab3efc55bf5428cb6d8e38b06f7aadb6dfa7143ec0a406b873
+- id: 10.1088/1742-5468/2015/00/P07025
+  title: Energy dissipation in an adaptive molecular circuit
+  authors:
+  - Shou-Wen Wang
+  - Yueheng Lan
+  - Lei-Han Tang
+  publisher: 'Journal of Statistical Mechanics: Theory and Experiment'
+  date: '2015-07-21'
+  link: https://doi.org/grgnv5
+  image: images/paper_image/2015_adaptation.png
+  extra-links:
+  - type: source
+    link: pdfs/energy_dissipation_and_adaptation.pdf
+    text: Main text
+  tags:
+  - Non-equilibirum statistical physics
+  - Sensory adaptation
+  _cache: 84410c634030c8103e9704ae6be9de10529ab0eb64e76e33ce4b5dc0c53004fc
+- id: 10.1088/1751-8113/46/36/365101
+  title: Nonlinear waves on circle networks with excitable nodes
+  authors:
+  - Shouwen Wang
+  - Yueheng Lan
+  publisher: 'Journal of Physics A: Mathematical and Theoretical'
+  date: '2013-08-14'
+  link: https://doi.org/gkrhrk
+  image: images/paper_image/2013_wave.png
+  extra-links:
+  - type: source
+    link: pdfs/2013-wave.pdf
+    text: Main text
+  tags:
+  - Nonlinear dynamics
+  - Synchronization
+  _cache: b8349124acaff88eda23237dbfb41ac2d925809aa5e2a6f571a228803cef6fc8
