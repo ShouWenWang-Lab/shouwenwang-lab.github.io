@@ -45,7 +45,7 @@ search:
 # social media
 
 orcid:
-  icon: orcid-logo.png
+  icon: orcid-logo.svg
   text: ORCID
   tooltip: ORCID
   link: https://orcid.org/$LINK
@@ -107,7 +107,7 @@ preprint:
   link: $LINK
 
 manubot:
-  icon: manubot-logo.png
+  icon: manubot-logo.svg
   text: Manubot
   tooltip: Manubot
   link: $LINK

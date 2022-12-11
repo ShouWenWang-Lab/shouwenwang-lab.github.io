@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 677.47 621.87">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #0079b9;
+      }
+
+      .cls-2 {
+        fill: #fe7602;
+      }
+
+      .cls-3 {
+        fill: #b3b3b3;
+      }
+
+      .cls-4 {
+        fill: #1d2224;
+      }
+    </style>
+  </defs>
+  <rect class="cls-4" x="-9" y="-2" width="686" height="624"/>
+  <g>
+    <ellipse class="cls-3" cx="210.04" cy="196.1" rx="21.13" ry="21.22"/>
+    <ellipse class="cls-3" cx="188.91" cy="143.04" rx="21.13" ry="21.22"/>
+    <ellipse class="cls-3" cx="241.73" cy="259.76" rx="21.13" ry="21.22"/>
+    <ellipse class="cls-3" cx="188.91" cy="259.76" rx="21.13" ry="21.22"/>
+    <ellipse class="cls-3" cx="157.23" cy="312.81" rx="21.13" ry="21.22"/>
+    <ellipse class="cls-3" cx="262.85" cy="121.82" rx="21.13" ry="21.22"/>
+    <ellipse class="cls-3" cx="146.66" cy="217.32" rx="21.13" ry="21.22"/>
+    <ellipse class="cls-2" cx="252.29" cy="164.26" rx="21.13" ry="21.22"/>
+    <ellipse class="cls-1" cx="357.92" cy="387.08" rx="21.13" ry="21.22"/>
+    <ellipse class="cls-2" cx="326.23" cy="164.26" rx="21.13" ry="21.22"/>
+    <ellipse class="cls-2" cx="294.54" cy="217.32" rx="21.13" ry="21.22"/>
+    <ellipse class="cls-1" cx="410.73" cy="376.47" rx="21.13" ry="21.22"/>
+    <ellipse class="cls-1" cx="452.98" cy="429.53" rx="21.13" ry="21.22"/>
+    <ellipse class="cls-2" cx="315.67" cy="111.21" rx="21.13" ry="21.22"/>
+    <ellipse class="cls-3" cx="526.92" cy="302.2" rx="21.13" ry="21.22"/>
+    <ellipse class="cls-3" cx="410.73" cy="238.54" rx="21.13" ry="21.22"/>
+    <ellipse class="cls-3" cx="389.6" cy="185.49" rx="21.13" ry="21.22"/>
+    <ellipse class="cls-3" cx="442.42" cy="302.2" rx="21.13" ry="21.22"/>
+    <ellipse class="cls-3" cx="389.6" cy="302.2" rx="21.13" ry="21.22"/>
+    <ellipse class="cls-3" cx="484.67" cy="259.76" rx="21.13" ry="21.22"/>
+    <ellipse class="cls-3" cx="463.54" cy="164.26" rx="21.13" ry="21.22"/>
+    <ellipse class="cls-3" cx="347.35" cy="259.76" rx="21.13" ry="21.22"/>
+    <ellipse class="cls-3" cx="379.04" cy="121.82" rx="21.13" ry="21.22"/>
+    <ellipse class="cls-3" cx="241.73" cy="387.08" rx="21.13" ry="21.22"/>
+    <ellipse class="cls-3" cx="220.6" cy="334.03" rx="21.13" ry="21.22"/>
+    <ellipse class="cls-3" cx="273.42" cy="450.75" rx="21.13" ry="21.22"/>
+    <ellipse class="cls-3" cx="220.6" cy="450.75" rx="21.13" ry="21.22"/>
+    <ellipse class="cls-3" cx="315.67" cy="408.3" rx="21.13" ry="21.22"/>
+    <ellipse class="cls-3" cx="294.54" cy="312.81" rx="21.13" ry="21.22"/>
+    <ellipse class="cls-3" cx="178.35" cy="408.3" rx="21.13" ry="21.22"/>
+    <ellipse class="cls-3" cx="463.54" cy="514.41" rx="21.13" ry="21.22"/>
+    <ellipse class="cls-3" cx="379.04" cy="514.41" rx="21.13" ry="21.22"/>
+    <ellipse class="cls-3" cx="505.79" cy="471.97" rx="21.13" ry="21.22"/>
+    <ellipse class="cls-3" cx="484.67" cy="376.47" rx="21.13" ry="21.22"/>
+    <ellipse class="cls-3" cx="379.04" cy="450.75" rx="21.13" ry="21.22"/>
+  </g>
+</svg>
