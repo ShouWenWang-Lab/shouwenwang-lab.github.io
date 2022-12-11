@@ -4,12 +4,8 @@
 - id: 10.1038/s41587-022-01209-1
   title: CoSpar identifies early cell fate biases from single-cell transcriptomic
     and lineage information
-  authors:
-  - Shou-Wen Wang
-  - Michael J. Herriges
-  - Kilian Hurley
-  - Darrell N. Kotton
-  - Allon M. Klein
+  authors: Shou-Wen Wang*, Michael J. Herriges, Kilian Hurley, Darrell N. Kotton,
+    Allon M. Klein*
   publisher: Nature Biotechnology
   date: '2022-02-21'
   link: https://doi.org/gptgwk
@@ -37,7 +33,7 @@
   - Lineage tracing
   - Cell fate prediction
   - Trajectory inference
-  _cache: 6d8d2abe6aa7d1d0fbe9e501040262fb82fbfd804fd198d0311536843419646b
+  _cache: 60d55eeb8c12c3a7b29ad1b6ebebe82b3e58ce5530b52ab445d14a221043687b
 - id: 10.1038/s41586-020-2503-6
   title: Single-cell lineage tracing unveils a role for TCF15 in haematopoiesis
   authors:
@@ -63,6 +59,25 @@
   - Serial clonal analysis
   - Graphic modeling
   _cache: de21fce375df1a8c3a411a1d75d7daeca92868145e5e9482a49a26f4a268da3e
+- id: 10.1038/s41467-019-13573-9
+  title: Emergence of collective oscillations in adaptive cells
+  authors: Shou-Wen Wang*, and Lei-Han Tang*
+  publisher: Nature Communications
+  date: '2019-12-01'
+  link: https://doi.org/grgnv4
+  image: images/paper_image/oscillation.png
+  extra-links:
+  - type: source
+    link: pdfs/collective_oscillation.pdf
+    text: Main text
+  - type: source
+    link: pdfs/collective_oscillation_supp.pdf
+    text: Supplemental methods
+  tags:
+  - Collective oscillations
+  - Sensory adaptation
+  - Non-equilibirum statistical physics
+  _cache: b230f2c3c8e957da5406432f78c9e84ef0d13a6b841837fc3aa93ce8d9402334
 - id: 10.1103/PhysRevLett.117.070601
   title: Entropy Production of Nanosystems with Time Scale Separation
   authors:
@@ -109,27 +124,6 @@
   - Single-site mutation effect
   - Elastic network modeling
   _cache: e3ad83b50bacc4a17b12bd81c307b6d90b8de0cac1b35e0eb7e16d7986a959a8
-- id: 10.1038/s41467-019-13573-9
-  title: Emergence of collective oscillations in adaptive cells
-  authors:
-  - Shou-Wen Wang
-  - Lei-Han Tang
-  publisher: Nature Communications
-  date: '2019-12-01'
-  link: https://doi.org/grgnv4
-  image: images/paper_image/oscillation.png
-  extra-links:
-  - type: source
-    link: pdfs/collective_oscillation.pdf
-    text: Main text
-  - type: source
-    link: pdfs/collective_oscillation_supp.pdf
-    text: Supplemental methods
-  tags:
-  - Collective oscillations
-  - Sensory adaptation
-  - Non-equilibirum statistical physics
-  _cache: d94fb3e6b87ba6efbae2951f11ce4cc5cf8f83b6734243592f0f6b8e03a2fb21
 - id: 10.1103/PhysRevE.97.052125
   title: Inferring energy dissipation from violation of the fluctuation-dissipation
     theorem
