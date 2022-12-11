@@ -2,7 +2,7 @@
 name: Wang, Shou-Wen Ph.D.
 image: images/wangshouwen.jpg
 #description: Principal Investigator
-role: Principal Investigator
+role: pi
 links:
   email: wangshouwen@westlake.edu.cn
 ---

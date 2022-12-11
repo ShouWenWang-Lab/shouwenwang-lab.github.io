@@ -1,6 +1,7 @@
 ---
 name: You
 image: images/you.jpg
+role: 'phd'
 description: A curiosity-driven and highly motivated young scientist 
 ---
 
