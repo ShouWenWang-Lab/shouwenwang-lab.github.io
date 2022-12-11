@@ -1,18 +1,28 @@
 - id: 10.1038/s41587-022-01209-1
   image: images/paper_image/cospar.png
-  date: 2022-2-21
   extra-links:
     - type: source
       link: pdfs/cospar.pdf
-      text: pdf
-    - type: website
+      text: Main text
+    - type: source
+      link: pdfs/cospar_supp.pdf
+      text: Supplement methods
+    - type: preprint
       link: https://cospar.readthedocs.io/en/latest/
       text: Documentation
     - type: source
       link: https://github.com/AllonKleinLab/cospar
       text: Code
+    - type: source
+      link: https://www.youtube.com/watch?v=rYzQUYPPNlU
+      text: 1 hour video
+    - type: source
+      link: https://www.youtube.com/watch?v=HrDQpW3kJFo
+      text: 20min video
   tags:
-    - Lineage tracing, cell fate prediction, trajectory inference
+    - Lineage tracing
+    - Cell fate prediction
+    - Trajectory inference
 
 
 - id: 10.1038/s41586-020-2503-6
@@ -20,20 +30,98 @@
   extra-links:
     - type: source
       link: pdfs/tcf15.pdf
-      text: pdf
-  tags:
-    - Lineage tracing, serial clonal analysis, graphic modeling 
+      text: Main text
+      link: pdfs/tcf_15_supp.pdf
+      text: Supplement methods
 
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  tags:
+    - Lineage tracing
+    - Serial clonal analysis
+    - Graphic modeling 
+
+
+- id: 10.1103/PhysRevLett.117.070601
+  image: images/paper_image/entropy.png
   extra-links:
-    - type: preprint
-      link: https://doi.org/10.7287/peerj.preprints.3100v1
-    - type: manubot
-      link: https://greenelab.github.io/scihub-manuscript/
     - type: source
-      link: https://github.com/greenelab/scihub-manuscript
-      text: Manuscript source
+      link: pdfs/entropy_production.pdf
+      text: Main text
     - type: source
-      link: https://github.com/greenelab/scihub
-      text: Analyses source
+      link: pdfs/entropy_production_supp.pdf
+      text: Supplemental methods
+  tags:
+    - Non-equilibrium statistical physics
+    - Entropy production
+    - Time-scale separation
+    - Coarse-graining
+
+- id: 10.1371/journal.pcbi.1007010
+  image: images/paper_image/protein_evolution.png
+  extra-links:
+    - type: source
+      link: pdfs/protein_evolution.pdf
+      text: Main text
+    - type: source
+      link: pdfs/protein_evolution_supp.pdf
+      text: Supplemental methods
+  tags:
+    - Protein evolution
+    - Single-site mutation effect
+    - Elastic network modeling
+
+
+- id: 10.1038/s41467-019-13573-9
+  image: images/paper_image/oscillation.png
+  extra-links:
+    - type: source
+      link: pdfs/collective_oscillation.pdf
+      text: Main text
+    - type: source
+      link: pdfs/collective_oscillation_supp.pdf
+      text: Supplemental methods
+  tags:
+    - Collective oscillations
+    - Sensory adaptation
+    - Non-equilibirum statistical physics
+
+- id: 10.1103/PhysRevE.97.052125
+  image: images/paper_image/PRE_asymmetry.png
+  extra-links:
+    - type: source
+      link: pdfs/PRE_my_own.pdf
+      text: Main text
+  tags:
+    - Non-equilibirum statistical physics
+    - Asymmetric transitions
+
+
+- id: 10.1088/1742-5468/2015/00/P07025
+  image: images/paper_image/2015_adaptation.png
+  extra-links:
+    - type: source
+      link: pdfs/energy_dissipation_and_adaptation.pdf
+      text: Main text
+  tags:
+    - Non-equilibirum statistical physics
+    - Sensory adaptation
+
+- id: 10.1088/1751-8113/46/36/365101
+  image: images/paper_image/2013_wave.png
+  extra-links:
+    - type: source
+      link: pdfs/2013-wave.pdf
+      text: Main text
+  tags:
+    - Nonlinear dynamics
+    - Synchronization
+
+
+
+    
+
+
+
+    
+
+
+
