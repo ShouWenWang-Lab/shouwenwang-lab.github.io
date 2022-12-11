@@ -4,7 +4,11 @@ title: Home
 
 Welcome to the Wang Lab!
 
-We are a group of inter-disciplinary scientists that explore the wonder of biology by integrating single-cell genomics and machine learning. We use machine learning to refer to statistical modeling approaches inspired from either statistical physics, computer science, or applied mathematics!
+<!-- We are a group of inter-disciplinary scientists that explore the wonder of biology by integrating single-cell genomics and machine learning. We use machine learning to refer to statistical modeling approaches inspired from either statistical physics, computer science, or applied mathematics! -->
+
+ We are dedicated to developing quantitative analysis and modeling methods for single-cell lineage tracing data, and integrating transcriptomic and epigenomic measurements to further reveal the molecular mechanisms underlying biological phenomena at different scales, such as cell differentiation and tissue homeostasis. We closely collaborate with other groups, integrate cutting-edge experimental designs and data collection for lineage tracing, and draw inspiration from fields such as statistical physics, computer science, and applied mathematics for data analysis. Our lab pursue a research path that crosses academic disciplines and combines experimental and computational approaches.
+
+ 
 <!-- 
 # Your Lab Slogan
 
@@ -34,74 +38,3 @@ Spend less time reinventing the wheel, and more time running your lab.
 {% include banner.html image="images/banner_art.jpg" %}
 
 {% include section.html %}
-
-# Highlights
-
-{% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-{%
-  include link.html
-  link="research"
-  text="See what we've published"
-  icon="fas fa-arrow-right"
-  flip=true
-%}
-{:.center}
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="research"
-  title="Our Research"
-  text=text
-%}
-
-{% capture text %}
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-{%
-  include link.html
-  link="tools"
-  text="Browse our tools"
-  icon="fas fa-arrow-right"
-  flip=true
-%}
-{:.center}
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="resources"
-  title="Our Resources"
-  flip=true
-  text=text
-%}
-
-{% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include link.html
-  link="team"
-  text="Meet our team"
-  icon="fas fa-arrow-right"
-  flip=true
-%}
-{:.center}
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Our Team"
-  text=text
-%}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
