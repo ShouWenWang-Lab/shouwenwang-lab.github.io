@@ -15,12 +15,41 @@
   link: https://doi.org/gptgwk
   image: images/paper_image/cospar.png
   extra-links:
-  - type: pdf
+  - type: source
     link: pdfs/cospar.pdf
+    text: pdf
   - type: website
     link: https://cospar.readthedocs.io/en/latest/
+    text: Documentation
   - type: source
     link: https://github.com/AllonKleinLab/cospar
+    text: Code
   tags:
   - Lineage tracing, cell fate prediction, trajectory inference
-  _cache: 0d5f1d55ea1476f8ca43245b1d971182d117174c0353076f1764b43821723a7f
+  _cache: 98e9ba51a62ab9010a529ec36deecaef3377cf60e22d5cec9e829b0c3b7540df
+- id: doi:10.7554/eLife.32822
+  title: Sci-Hub provides access to nearly all scholarly literature
+  authors:
+  - Daniel S Himmelstein
+  - Ariel Rodriguez Romero
+  - Jacob G Levernier
+  - Thomas Anthony Munro
+  - Stephen Reid McLaughlin
+  - Bastian Greshake Tzovaras
+  - Casey S Greene
+  publisher: eLife
+  date: '2018-03-01'
+  link: https://doi.org/ckcj
+  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  extra-links:
+  - type: preprint
+    link: https://doi.org/10.7287/peerj.preprints.3100v1
+  - type: manubot
+    link: https://greenelab.github.io/scihub-manuscript/
+  - type: source
+    link: https://github.com/greenelab/scihub-manuscript
+    text: Manuscript source
+  - type: source
+    link: https://github.com/greenelab/scihub
+    text: Analyses source
+  _cache: 483a564e9ddf847e6372cafb31de4673771c3e4da664c0d86a7ea7c38c20318d
