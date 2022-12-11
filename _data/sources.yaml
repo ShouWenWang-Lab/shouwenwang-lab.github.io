@@ -1,5 +1,6 @@
 - id: 10.1038/s41587-022-01209-1
   image: images/paper_image/cospar.png
+  authors: Shou-Wen Wang*, Michael J. Herriges, Kilian Hurley, Darrell N. Kotton, Allon M. Klein* 
   extra-links:
     - type: source
       link: pdfs/cospar.pdf
@@ -39,6 +40,20 @@
     - Serial clonal analysis
     - Graphic modeling 
 
+- id: 10.1038/s41467-019-13573-9
+  image: images/paper_image/oscillation.png
+  authors: Shou-Wen Wang*, and Lei-Han Tang*
+  extra-links:
+    - type: source
+      link: pdfs/collective_oscillation.pdf
+      text: Main text
+    - type: source
+      link: pdfs/collective_oscillation_supp.pdf
+      text: Supplemental methods
+  tags:
+    - Collective oscillations
+    - Sensory adaptation
+    - Non-equilibirum statistical physics
 
 - id: 10.1103/PhysRevLett.117.070601
   image: images/paper_image/entropy.png
@@ -69,20 +84,6 @@
     - Single-site mutation effect
     - Elastic network modeling
 
-
-- id: 10.1038/s41467-019-13573-9
-  image: images/paper_image/oscillation.png
-  extra-links:
-    - type: source
-      link: pdfs/collective_oscillation.pdf
-      text: Main text
-    - type: source
-      link: pdfs/collective_oscillation_supp.pdf
-      text: Supplemental methods
-  tags:
-    - Collective oscillations
-    - Sensory adaptation
-    - Non-equilibirum statistical physics
 
 - id: 10.1103/PhysRevE.97.052125
   image: images/paper_image/PRE_asymmetry.png
