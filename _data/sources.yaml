@@ -2,22 +2,22 @@
   image: images/paper_image/cospar.png
   authors: Shou-Wen Wang*, Michael J. Herriges, Kilian Hurley, Darrell N. Kotton, Allon M. Klein* 
   extra-links:
-    - type: source
+    - type: preprint
       link: pdfs/cospar.pdf
       text: Main text
-    - type: source
+    - type: preprint
       link: pdfs/cospar_supp.pdf
       text: Supplement methods
     - type: preprint
       link: https://cospar.readthedocs.io/en/latest/
       text: Documentation
-    - type: source
+    - type: preprint
       link: https://github.com/AllonKleinLab/cospar
       text: Code
-    - type: source
+    - type: preprint
       link: https://www.youtube.com/watch?v=rYzQUYPPNlU
       text: 1 hour video
-    - type: source
+    - type: preprint
       link: https://www.youtube.com/watch?v=HrDQpW3kJFo
       text: 20min video
   tags:
@@ -29,7 +29,7 @@
 - id: 10.1038/s41586-020-2503-6
   image: images/paper_image/tcf15.png
   extra-links:
-    - type: source
+    - type: preprint
       link: pdfs/tcf15.pdf
       text: Main text
       link: pdfs/tcf_15_supp.pdf
@@ -44,10 +44,10 @@
   image: images/paper_image/oscillation.png
   authors: Shou-Wen Wang*, and Lei-Han Tang*
   extra-links:
-    - type: source
+    - type: preprint
       link: pdfs/collective_oscillation.pdf
       text: Main text
-    - type: source
+    - type: preprint
       link: pdfs/collective_oscillation_supp.pdf
       text: Supplemental methods
   tags:
@@ -58,10 +58,10 @@
 - id: 10.1103/PhysRevLett.117.070601
   image: images/paper_image/entropy.png
   extra-links:
-    - type: source
+    - type: preprint
       link: pdfs/entropy_production.pdf
       text: Main text
-    - type: source
+    - type: preprint
       link: pdfs/entropy_production_supp.pdf
       text: Supplemental methods
   tags:
@@ -73,10 +73,10 @@
 - id: 10.1371/journal.pcbi.1007010
   image: images/paper_image/protein_evolution.png
   extra-links:
-    - type: source
+    - type: preprint
       link: pdfs/protein_evolution.pdf
       text: Main text
-    - type: source
+    - type: preprint
       link: pdfs/protein_evolution_supp.pdf
       text: Supplemental methods
   tags:
@@ -88,7 +88,7 @@
 - id: 10.1103/PhysRevE.97.052125
   image: images/paper_image/PRE_asymmetry.png
   extra-links:
-    - type: source
+    - type: preprint
       link: pdfs/PRE_my_own.pdf
       text: Main text
   tags:
@@ -99,7 +99,7 @@
 - id: 10.1088/1742-5468/2015/00/P07025
   image: images/paper_image/2015_adaptation.png
   extra-links:
-    - type: source
+    - type: preprint
       link: pdfs/energy_dissipation_and_adaptation.pdf
       text: Main text
   tags:
@@ -109,7 +109,7 @@
 - id: 10.1088/1751-8113/46/36/365101
   image: images/paper_image/2013_wave.png
   extra-links:
-    - type: source
+    - type: preprint
       link: pdfs/2013-wave.pdf
       text: Main text
   tags:
