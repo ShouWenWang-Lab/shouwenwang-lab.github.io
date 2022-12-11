@@ -30,8 +30,9 @@ Spend less time reinventing the wheel, and more time running your lab.
   text="See the documentation"
   link="https://github.com/greenelab/lab-website-template/wiki"
   style="button"
-%}
-{:.center} -->
+%} -->
+
+{:.center} 
 
 {% include section.html full=true %}
 
