@@ -7,10 +7,7 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is affiliated with both [School of Life Science](https://sls.westlake.edu.cn/en/About/Overview/) and the [Physics Department](https://en.westlake.edu.cn/academics/School_of_Science/About/areasofstudy/Overview/),
-in [Westlake University](https://en.westlake.edu.cn/).
-
-Westlake University is located near the beautiful and historical westlake at Hangzhou, 1 hour away from Shanghai by train. 
+Our lab is affiliated with both School of Life Science and the Physics Department in [Westlake University](https://en.westlake.edu.cn/). We are located near the beautiful and historical westlake at Hangzhou, 1 hour away from Shanghai by train. 
 
 
 
