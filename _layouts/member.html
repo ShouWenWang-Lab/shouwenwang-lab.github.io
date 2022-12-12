@@ -12,9 +12,9 @@ layout: default
 
 <p class="center">
   {%- for entry in page.links -%}
-    {%- assign key = entry[0] -%}
-    {%- assign value = entry[1] -%}
-    {%- include link.html type=key icon="" text="" tooltip="" link=value -%}
+  {%- assign key = entry[0] -%}
+  {%- assign value = entry[1] -%}
+  {%- include link.html type=key icon="" text="" tooltip="" link=value -%}
   {%- endfor -%}
 </p>
 
@@ -23,19 +23,19 @@ layout: default
 {%- assign aliases = "" | split: ',' -%}
 
 {%- if page.aliases.first -%}
-  {%- assign aliases = aliases | concat: page.aliases -%}
+{%- assign aliases = aliases | concat: page.aliases -%}
 {%- elsif page.aliases -%}
-  {%- assign aliases = aliases | push: page.aliases -%}
+{%- assign aliases = aliases | push: page.aliases -%}
 {%- elsif page.name -%}
-  {%- assign aliases = aliases | push: page.name -%}
+{%- assign aliases = aliases | push: page.name -%}
 {%- elsif page.title -%}
-  {%- assign aliases = aliases | push: page.title -%}
+{%- assign aliases = aliases | push: page.title -%}
 {%- endif -%}
 
 {%- assign search = aliases | join: '" "' | prepend: '"' | append: '"' | prepend: "/research/?search=" -%}
 
 {%- capture text -%}
-  See {{ page.name | default: page.title }}'s papers on the Research page
+See {{ page.name | default: page.title }}'s papers on the Publication page
 {%- endcapture -%}
 
 <p class="center">
