@@ -1,5 +1,5 @@
 ---
-title: Job opening
+title: Join
 nav:
   order: 2
   tooltip: position information
