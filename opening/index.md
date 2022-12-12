@@ -19,7 +19,7 @@ If you are interested in joining us, please send me an email along with a brief 
 
 ## Graduate students
 
-Dr. Shou-Wen Wang is affiliated with both the School of Life Science and the Physics Department at Westlake University. If you are interested in joining his research group as a PhD student and are currently enrolled in one of these departments, please send an email with a brief statement about why you are interested in the position, attach your CV, and include "Applying for PhD (Your name)" in the subject line. We also welcome visiting students, especially those interested in pursuing a Ph.D. in Westlake University.
+Dr. Shou-Wen Wang is affiliated with both the School of Life Sciences and the Physics Department at Westlake University. If you are interested in joining his research group as a PhD student and are currently enrolled in one of these departments, please send an email with a brief statement about why you are interested in the position, attach your CV, and include "Applying for PhD (Your name)" in the subject line. We also welcome visiting students, especially those interested in pursuing a Ph.D. in Westlake University.
 
 ## Research Assistant
 
