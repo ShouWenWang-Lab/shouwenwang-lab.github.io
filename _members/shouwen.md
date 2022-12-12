@@ -1,5 +1,5 @@
 ---
-name: Wang, Shou-Wen Ph.D.
+name: Shou-Wen Wang
 image: images/wangshouwen.jpg
 description: 'Principal Investigator'
 role: pi
