@@ -5,7 +5,7 @@ nav:
   tooltip: research outline
 ---
 
- The rapid progress of single-cell genomics over the past decade has established an important technology foundation for systematically understanding diverse biological processes such as development and tissue homeostasis. These technologies include high-throughput single-cell RNA-sequencing, cellular lineage tracing with DNA barcoding, and single-cell multi-omics. As these technologies are being integrated to provide richer and more detailed information at the single-cell level, it remains a challenge to effectively extract quantitative biological insights from such large datasets.
+ The rapid progress of single-cell genomics over the past decade has established an important technology foundation for systematically understanding diverse biological processes such as development and tissue homeostasis. These technologies include high-throughput single-cell RNA sequencing, cellular lineage tracing with DNA barcoding, and single-cell multi-omics. As these technologies are being integrated to provide richer and more detailed information at the single-cell level, it remains a challenge to effectively extract quantitative biological insights from such large datasets.
 
  {%
   include figure.html
