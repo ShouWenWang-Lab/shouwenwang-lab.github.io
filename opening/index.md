@@ -5,13 +5,13 @@ nav:
   tooltip: position information
 ---
 
-We are a multi-disciplinary, computational biology lab. We collaborate closely with other groups to use state-of-the-art single-cell omics technologies to study multi-scale questions in cell differentiation and development. We welcome individuals with backgrounds in computational biology, experimental biology, physics, computer science and other disciplines to join us. 
+We are a multi-disciplinary, computational biology lab at [Westlake University](https://en.westlake.edu.cn/faculty/shouwen-wang.html). We collaborate closely with other groups to use state-of-the-art single-cell omics technologies to study multi-scale questions in cell differentiation and development. We welcome individuals with backgrounds in computational biology, experimental biology, physics, computer science and other disciplines to join us. 
 
 Successful candidates will have the opportunity to tackle fundamental biological questions in cell differentiation and development, receive cross-disciplinary training, and experience the joy of creating at the cutting edge. We are always looking for passionate, talented and dedicated new team members! 
 
 ## Postdoc
 
-An ideal candidate for this position will have a Ph.D. in a quantitative field such as computational biology, statistics, physics, computer science, or applied mathematics. Excellent programming and communication skills are a must. Experience in the analysis of high-throughput sequencing data is highly desirable. Outstanding candidates with a strong quantitative background but limited experience in biology may also be considered.
+An ideal candidate for this position will have a Ph.D. in a quantitative field such as computational biology, statistics physics, computer science, or applied mathematics. Excellent programming and communication skills are a must. Experience in the analysis of high-throughput sequencing data is highly desirable. Outstanding candidates with a strong quantitative background but limited experience in biology may also be considered.
 
 We have also established a wet lab and are interested in bridging the gap between dry and wet lab research. Candidates with a Ph.D. in biology and substantial wet lab experience are encouraged to apply. 
 
