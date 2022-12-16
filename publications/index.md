@@ -11,7 +11,7 @@ nav:
 
 ## In the pipeline
 
-Li Li, Sarah Bowling, Qi Yu, Allon M. Klein, Shou-Wen Wang\*, Fernando D. Camargo\*, *LINCAT: a high-capacity lineage recording mouse line and its application in single-cell multi-omic lineage tracing* (2023, in submission).
+Li Li, Sarah Bowling, Qi Yu, Karel Alcedo, Mark Ferreira, Allon M. Klein, Shou-Wen Wang\*, Fernando D. Camargo\*, *DARLIN mouse enables efficient joint profiling of lineage barcodes, transcriptome, and epigenome in single cells* (2023, in submission).
 
 
 ## Published
