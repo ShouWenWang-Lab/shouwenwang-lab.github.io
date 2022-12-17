@@ -1,6 +1,6 @@
 ---
 name: You
-image: images/you.jpg
+image: images/you.png
 role: 'phd'
 description: Come join our lab! 
 ---

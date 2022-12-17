@@ -11,9 +11,7 @@ nav:
 
 ## In the pipeline
 
-Li Li, Sarah Bowling, Qi Yu, Karel Alcedo, Mark Ferreira, Allon M. Klein, Shou-Wen Wang\*, Fernando D. Camargo\*, *DARLIN mouse enables efficient joint profiling of lineage barcodes, transcriptome, and epigenome in single cells* (2023, in submission).
-
-
+Li Li, Sarah Bowling, Qi Yu, Karel Alcedo, Mark Ferreira, Allon M. Klein, Shou-Wen Wang\*, Fernando D. Camargo\*, *DARLIN mouse enables efficient joint profiling of lineage barcodes, transcriptome, and epigenome in single cells* (2023, in submission)
 ## Published
 
 {% include search-box.html %}
