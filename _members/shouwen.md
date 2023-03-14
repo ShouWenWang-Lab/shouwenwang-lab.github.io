@@ -1,7 +1,7 @@
 ---
 name: Shou-Wen Wang
 image: images/wangshouwen.jpg
-description: 'Assistant professor'
+description: Assistant professor
 role: pi
 links:
   email: wangshouwen@westlake.edu.cn

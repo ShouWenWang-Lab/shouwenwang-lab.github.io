@@ -1,8 +1,8 @@
 ---
 name: Junpeng Chen
 image: images/chenjunpeng.jpg
-description: 'Bachelor's degree'
-role: 'phd'
+description: Bachelor's degree
+role: ra
 links:
   email: chenjunpeng@westlake.edu.cn
 ---
