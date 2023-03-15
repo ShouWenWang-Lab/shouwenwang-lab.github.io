@@ -1,7 +1,7 @@
 ---
 name: Junpeng Chen
 image: images/chenjunpeng.jpg
-description: Bachelor's degree
+description: Research Assistant
 role: ra
 links:
   email: chenjunpeng@westlake.edu.cn
