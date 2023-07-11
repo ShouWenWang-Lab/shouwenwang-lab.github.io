@@ -15,7 +15,7 @@ An ideal candidate for this position will have a Ph.D. in a quantitative field s
 
 We have also established a wet lab and are interested in bridging the gap between dry and wet lab research. Candidates with a Ph.D. in biology and substantial wet lab experience are encouraged to apply. 
 
-If you are interested in joining us, please send me an email along with a brief cover letter, a detailed CV and at least two recommendation letters. Please indicate “Applying for Postdoc (Your name)” in the email subject. More details and benefits are [here](/pdfs/Shouwen_postdoc_jobs.pdf).
+If you are interested in joining us, please send me an email along with a brief cover letter, a detailed CV and at least two recommendation letters. Please indicate “Applying for Postdoc (Your name)” in the email subject. More details and benefits are [here](/pdfs/Shouwen_jobs.pdf).
 
 ## Graduate students
 
@@ -23,4 +23,4 @@ Dr. Shou-Wen Wang is affiliated with both the School of Life Sciences and the Ph
 
 ## Research Assistant
 
-An ideal Research Assistant (RA) will have a Bachelor's or Master's degree in Biology, Computer Science, or a related field. Excellent communication skills are a must. We also welcome students who are interested in gaining research experience before pursuing a Ph.D. To apply, please send an email with a brief statement about why you are interested in the position, attach your CV, and include "Applying for RA (Your name)" in the subject line. More details and benefits are [here](/pdfs/Shouwen_RA_jobs.pdf).
+An ideal Research Assistant (RA) will have a Bachelor's or Master's degree in Biology, Computer Science, or a related field. Excellent communication skills are a must. We also welcome students who are interested in gaining research experience before pursuing a Ph.D. To apply, please send an email with a brief statement about why you are interested in the position, attach your CV, and include "Applying for RA (Your name)" in the subject line. More details and benefits are [here](/pdfs/Shouwen_jobs.pdf).
