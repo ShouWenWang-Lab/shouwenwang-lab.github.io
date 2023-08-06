@@ -1,7 +1,7 @@
 ---
 name: Ruijiang Fu
 image: images/RuijiangFu.jpg
-description: Graduate students
+description: PhD Student
 role: phd
 links:
   email: furuijiang@westlake.edu.cn
