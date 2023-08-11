@@ -1,6 +1,6 @@
 ---
 name: Ruijiang Fu
-image: images/RuijiangFu.jpg
+image: images/202308RuijiangFu.jpeg
 description: PhD Student
 role: phd
 links:
