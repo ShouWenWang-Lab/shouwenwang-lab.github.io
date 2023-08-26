@@ -12,6 +12,7 @@ nav:
 ## In the pipeline
 
 L. Li, S. Bowling, S. E. McGeary, Q. Yu, B. Lemke, K. Alcedo, Y. Jia, X. Liu, M. Ferreira, A. M. Klein,  Shou-Wen Wang\*, Fernando D. Camargo\*, *[A mouse model with high clonal barcode diversity for joint lineage, transcriptomic, and epigenomic profiling in single cellss](https://www.biorxiv.org/content/10.1101/2023.01.29.526062v1#page)*, Cell (2023, in press)
+
 ## Published
 
 {% include search-box.html %}

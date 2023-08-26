@@ -1,10 +1,9 @@
 ---
 title: Tools
 nav:
-  order: 2
-  tooltip: Software, datasets, and more
+  order: 5
+  tooltip: Software, pipelines, and more
 ---
-
 
 ## Featured
 

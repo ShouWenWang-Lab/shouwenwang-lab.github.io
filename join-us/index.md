@@ -1,9 +1,11 @@
 ---
 title: Join
 nav:
-  order: 2
-  tooltip: position information
+  order: 3
+  tooltip: Position information
 ---
+
+{% include carousel.html data="carousel" height="50" unit="%" duration="5" number="1" %}
 
 We are a multi-disciplinary, computational biology lab at [Westlake University](https://en.westlake.edu.cn/faculty/shouwen-wang.html). We collaborate closely with other groups to use state-of-the-art single-cell omics technologies to study multi-scale questions in cell differentiation and development. We welcome individuals with backgrounds in computational biology, experimental biology, physics, computer science and other disciplines to join us. 
 

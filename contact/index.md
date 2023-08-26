@@ -1,7 +1,7 @@
 ---
 title: Contact
 nav:
-  order: 5
+  order: 7
   tooltip: Email, address, and location
 ---
 
@@ -10,6 +10,7 @@ nav:
 Our lab is affiliated with both [School of Life Sciences](https://en.westlake.edu.cn/faculty/shouwen-wang.html) and the [Physics Department](https://science.westlake.edu.cn/Our_Faculty/Our_Faculty_1/202212/t20221213_24440.shtml) in Westlake University. We are located near the beautiful and historical westlake at Hangzhou, 1 hour away from Shanghai by train. 
 
 ## Address
+
 Westlake Laboratory 3#306, Shilongshan ST #18, Xihu District, Hangzhou, Zhejiang Province, CN
 
 中国浙江省杭州市西湖区云栖小镇石龙山街18号, 西湖实验室, 3号楼306
@@ -34,14 +35,8 @@ Westlake Laboratory 3#306, Shilongshan ST #18, Xihu District, Hangzhou, Zhejiang
 %}
 {:.center}
 
-
-
-
 {% include section.html full=true %}
 
 {% include banner.html image="images/Hangzhou.jpg" %}
 
 {% include section.html %}
-
-
-

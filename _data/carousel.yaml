@@ -1,0 +1,4 @@
+carousels:
+  - images:
+      - image: images/carousel/1.jpg
+      - image: images/carousel/2.jpg
