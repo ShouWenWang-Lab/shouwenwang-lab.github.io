@@ -2,7 +2,7 @@
 title: Research
 nav:
   order: 2
-  tooltip: research outline
+  tooltip: Research outline
 ---
 
  The rapid progress of single-cell genomics over the past decade has established an important technology foundation for systematically understanding diverse biological processes such as development and tissue homeostasis. These technologies include high-throughput single-cell RNA sequencing, cellular lineage tracing with DNA barcoding, and single-cell multi-omics. As these technologies are being integrated to provide richer and more detailed information at the single-cell level, it remains a challenge to effectively extract quantitative biological insights from such large datasets.
@@ -21,5 +21,4 @@ We seek to systematically and quantitatively understand cell fate choice by inte
   width="100%"
 %}
 
-
-We are also excited to extend our efforts to predict and understand cell fate choice under perturbation and disease, especially using lineage tracing approaches. Please check out our [publications](/publications). We also welcome talented and highly motivated individuals to [join our team](/opening)!
+We are also excited to extend our efforts to predict and understand cell fate choice under perturbation and disease, especially using lineage tracing approaches. Please check out our [publications](/publications). We also welcome talented and highly motivated individuals to [join our team](/join-us)!

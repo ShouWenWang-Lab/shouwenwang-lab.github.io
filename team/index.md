@@ -1,14 +1,11 @@
 ---
 title: Team
 nav:
-  order: 4
+  order: 6
   tooltip: About our team
 ---
 
 # <i class="fas fa-users"></i>Team
-
-
-{% include section.html %}
 
 {%
   include list.html
@@ -35,3 +32,7 @@ nav:
   filters="role: programmer"
 %}
 {:.center}
+
+# <i class="fas fa-user-graduate"></i>Alumni
+
+- On the way...
