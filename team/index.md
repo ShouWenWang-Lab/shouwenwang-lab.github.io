@@ -35,4 +35,4 @@ nav:
 
 # <i class="fas fa-user-graduate"></i>Alumni
 
-- On the way...
+- Chengkun Yang (Emory U. undergraduate), summer intern, 2023.7-2023.8
