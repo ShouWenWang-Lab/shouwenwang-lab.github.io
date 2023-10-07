@@ -23,6 +23,5 @@ vsco:
   text: Visiting Scholar
 
 vstu:
-  icon: fas fa-user-graduate 
+  icon: fas fa-user-graduate
   text: Visiting Student
-
