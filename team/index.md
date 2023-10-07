@@ -29,7 +29,13 @@ nav:
   include list.html
   data="members"
   component="portrait"
-  filters="role: programmer"
+  filters="role: vsco"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: vstu"
 %}
 {:.center}
 
