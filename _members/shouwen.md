@@ -1,6 +1,6 @@
 ---
 name: Shou-Wen Wang
-image: images/wangshouwen.jpg
+image: images/members/shouwen.jpg
 description: Assistant professor
 role: pi
 links:
