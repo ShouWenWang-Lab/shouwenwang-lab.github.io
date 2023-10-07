@@ -1,6 +1,6 @@
 ---
 name: Mengyang Chen
-image: images/chenmengyang_updated.jpg
+image: images/members/mengyang.jpg
 description: Research Assistant
 role: ra
 links:
