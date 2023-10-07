@@ -11,7 +11,7 @@ phd:
   text: PhD Student
 
 ra:
-  icon: fas fa-graduation-cap
+  icon: fas fa-vial
   text: Research Assistant
 
 undergrad:
@@ -25,4 +25,3 @@ vsco:
 vstu:
   icon: fas fa-user-graduate
   text: Visiting Student
-
