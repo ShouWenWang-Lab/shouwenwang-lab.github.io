@@ -18,10 +18,11 @@ undergrad:
   icon: fas fa-user-graduate
   text: Undergraduate Student
 
-programmer:
-  icon: fas fa-code
-  text: Programmer
+vsco:
+  icon: fas fa-glasses
+  text: Visiting Scholar
 
-mascot:
-  icon: fas fa-dog
-  text: Mascot
+vstu:
+  icon: fas fa-user-graduate
+  text: Visiting Student
+
