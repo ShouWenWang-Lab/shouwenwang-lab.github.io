@@ -12,6 +12,15 @@
   - type: preprint
     link: pdfs/darlin+paper.pdf
     text: Manuscript
+  - type: preprint
+    link: https://www.youtube.com/watch?v=TywIb_4cPk8
+    text: 30min video
+  - type: preprint
+    link: https://github.com/ShouWenWang-Lab/MosaicLineage
+    text: Code-analysis
+  - type: preprint
+    link: https://github.com/ShouWenWang-Lab/snakemake_DARLIN
+    text: Code-preprocessing
   tags:
   - Single-cell multiomic lineage tracing
   - Mouse model
