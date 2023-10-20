@@ -1,6 +1,20 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: 10.1016/j.cell.2023.09.019
+  title: A mouse model with high clonal barcode diversity for joint lineage, transcriptomic, and epigenomic profiling in single cells
+  authors: L. Li, S. Bowling, S. E. McGeary, Q. Yu, B. Lemke, K. Alcedo, Y. Jia, X. Liu, M. Ferreira, A. M. Klein, Shou-Wen Wang*, Fernando D. Camargo*
+  publisher: Cell
+  date: '2023-10-17'
+  link: https://www.cell.com/cell/fulltext/S0092-8674(23)01040-1
+  image: images/paper_image/darlin.png
+  extra-links:
+  - type: preprint
+    link: pdfs/darlin+paper.pdf
+    text: Manuscript
+  tags:
+  - Single-cell multiomic lineage tracing
+  - Mouse model
 - id: 10.1038/s41587-022-01209-1
   title: CoSpar identifies early cell fate biases from single-cell transcriptomic
     and lineage information
