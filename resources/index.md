@@ -7,4 +7,6 @@ nav:
 
 ## Videos
 
-- [Learning cell dynamics from single-cell genomic data](https://www.koushare.com/video/videodetail/63476)
+- [Learning Cell Dynamics from Single-Cell Genomic Data](https://www.koushare.com/video/videodetail/63476)
+
+- [Exploring Cell Fate and Memory through Single-Cell Multi-Omic Lineage Tracing](https://www.youtube.com/watch?v=TywIb_4cPk8)
