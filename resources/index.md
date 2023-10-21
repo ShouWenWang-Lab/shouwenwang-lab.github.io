@@ -7,6 +7,10 @@ nav:
 
 ## Videos
 
-- [Learning Cell Dynamics from Single-Cell Genomic Data](https://www.koushare.com/video/videodetail/63476)
+- 2022-06-01, a 20-min short talk about [the utility of CoSpar](https://www.youtube.com/watch?v=HrDQpW3kJFo)
 
-- [Exploring Cell Fate and Memory through Single-Cell Multi-Omic Lineage Tracing](https://www.youtube.com/watch?v=TywIb_4cPk8)
+- 2022-10-19, invited MIA talk at Broad Institute, one-hour, focusing on the [Machine Learning part of CoSpar](https://www.youtube.com/watch?v=rYzQUYPPNlU). The talk slides can be found [here](https://github.com/ShouWenWang-Lab/cospar/files/10042131/20221118_public_posted_slides.pdf)
+
+- 2023-08-5, [Learning Cell Dynamics from Single-Cell Genomic Data](https://www.koushare.com/video/videodetail/63476)
+
+- 2023-10-21, Exploring Cell Fate and Memory through Single-Cell Multi-Omic Lineage Tracing, availabe in [Youtube](https://www.youtube.com/watch?v=TywIb_4cPk8) or [Bilibili](https://www.bilibili.com/video/BV1sw411F7hd/?spm_id_from=333.999.0.0&vd_source=88ba2b3e0a84657ca67330d8cba9e18f).
