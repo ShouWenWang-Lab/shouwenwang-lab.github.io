@@ -9,7 +9,7 @@ nav:
 
 - 2022-06-01, a 20-min short talk about [the utility of CoSpar](https://www.youtube.com/watch?v=HrDQpW3kJFo)
 
-- 2022-10-19, invited MIA talk at Broad Institute, one-hour, focusing on the [Machine Learning part of CoSpar](https://www.youtube.com/watch?v=rYzQUYPPNlU). The talk slides can be found [here](https://github.com/ShouWenWang-Lab/cospar/files/10042131/20221118_public_posted_slides.pdf)
+- 2022-10-19, invited MIA talk at Broad Institute, one-hour, focusing on the [Machine Learning part of CoSpar](https://www.youtube.com/watch?v=rYzQUYPPNlU).
 
 - 2023-08-5, [Learning Cell Dynamics from Single-Cell Genomic Data](https://www.koushare.com/video/videodetail/63476)
 
