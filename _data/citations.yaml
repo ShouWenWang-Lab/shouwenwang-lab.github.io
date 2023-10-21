@@ -22,8 +22,13 @@
     link: https://github.com/ShouWenWang-Lab/snakemake_DARLIN
     text: Code-preprocessing
   tags:
-  - Single-cell multiomic lineage tracing
+  - Lineage tracing
   - Mouse model
+  - Multiomics
+  - Cell fate
+  - Clonal memory
+  - Migration
+
 - id: 10.1038/s41587-022-01209-1
   title: CoSpar identifies early cell fate biases from single-cell transcriptomic
     and lineage information
