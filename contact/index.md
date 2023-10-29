@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is affiliated with both [School of Life Sciences](https://en.westlake.edu.cn/faculty/shouwen-wang.html) and the [Physics Department](https://science.westlake.edu.cn/Our_Faculty/Our_Faculty_1/202212/t20221213_24440.shtml) in Westlake University. We are located near the beautiful and historical westlake at Hangzhou, 1 hour away from Shanghai by train. 
+Our lab is affiliated with both [School of Life Sciences](https://en.westlake.edu.cn/faculty/shouwen-wang.html) and the [Physics Department](https://westlake.edu.cn/faculty/shouwen-wang.html) in Westlake University. We are located near the beautiful and historical westlake at Hangzhou, 1 hour away from Shanghai by train. 
 
 ## Address
 
