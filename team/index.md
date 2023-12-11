@@ -42,4 +42,4 @@ nav:
 # <i class="fas fa-user-graduate"></i>Alumni
 
 - Chengkun Yang (Emory U. undergraduate), summer intern, 2023.7-2023.8
-- Jinnan Sun (Xi'an Jiaotong U. master), visiting student, 2023.9-2023.11
+- Xiunan Fang (Hong Kong U. PhD), visiting student, 2023.11-2023.12
