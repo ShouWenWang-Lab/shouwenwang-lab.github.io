@@ -15,6 +15,9 @@ nav:
 
 - 2023-10-21, Exploring Cell Fate and Memory through Single-Cell Multi-Omic Lineage Tracing, availabe in [Youtube](https://www.youtube.com/watch?v=TywIb_4cPk8) or [Bilibili](https://www.bilibili.com/video/BV1sw411F7hd/?spm_id_from=333.999.0.0&vd_source=88ba2b3e0a84657ca67330d8cba9e18f).
 
+
+- 2024-01-24, [Westlake-Science Joint Symposium on Lineage Tracing and Cellular Barcoding](https://live.vhall.com/v3/lives/watch/947369085)
+
 ## Media report
 
 - CoSpar from [BioArt](https://mp.weixin.qq.com/s/qwkJXSG8bkJDcIEH87Prbw).
