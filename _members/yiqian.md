@@ -1,4 +1,5 @@
 ---
+noindex: true
 name: Yiqian Chen
 image: images/members/yiqian.jpg
 description: PhD Student
