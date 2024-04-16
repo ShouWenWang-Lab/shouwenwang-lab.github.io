@@ -19,6 +19,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 
+{% if page.noindex %}
+<meta name="robots" content="noindex">
+{% endif %}
+
 <!-- https://metatags.io/ -->
 <meta name="title" content="{{ title }}" />
 <meta name="description" content="{{ page.description | default: site.description }}" />
