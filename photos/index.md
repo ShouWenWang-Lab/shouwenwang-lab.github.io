@@ -7,4 +7,4 @@ nav:
 
 ## Lab photos
 
-{% include masonry.html %}
+{% include masonry.html data="masonry_photos" %}
