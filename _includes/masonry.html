@@ -3,7 +3,8 @@
   <div class="dw-panel dw-cluster dw-cluster--vertical dw-sm">
     <div class="dw-cluster__segment dw-cluster__segment--col dw-cluster__segment--half">
       {% for photo in data.photos %}
-      {% if loop.cycle(0, 1) == 0 %}
+      {% assign loopindex = forloop.index | modulo: 2 %}
+      {% if loopindex == 0 %}
       <div class="dw-panel dw-cluster__segment dw-panel--pulse">
         <img src="{{ photo.path }}" class="dw-panel__content" />
       </div>
@@ -12,7 +13,8 @@
     </div>
     <div class="dw-cluster__segment dw-cluster__segment--col dw-cluster__segment--half">
       {% for photo in data.photos %}
-      {% if loop.cycle(0, 1) == 1 %}
+      {% assign loopindex = forloop.index | modulo: 2 %}
+      {% if loopindex == 1 %}
       <div class="dw-panel dw-cluster__segment dw-panel--pulse">
         <img src="{{ photo.path }}" class="dw-panel__content" />
       </div>
@@ -23,7 +25,8 @@
   <div class="dw-panel dw-cluster dw-cluster--vertical dw-md">
     <div class="dw-cluster__segment dw-cluster__segment--col dw-cluster__segment--half">
       {% for photo in data.photos %}
-      {% if loop.cycle(0, 1, 2) == 0 %}
+      {% assign loopindex = forloop.index | modulo: 3 %}
+      {% if loopindex == 0 %}
       <div class="dw-panel dw-cluster__segment dw-panel--pulse">
         <img src="{{ photo.path }}" class="dw-panel__content" />
       </div>
@@ -32,7 +35,8 @@
     </div>
     <div class="dw-cluster__segment dw-cluster__segment--col dw-cluster__segment--half">
       {% for photo in data.photos %}
-      {% if loop.cycle(0, 1, 2) == 1 %}
+      {% assign loopindex = forloop.index | modulo: 3 %}
+      {% if loopindex == 1 %}
       <div class="dw-panel dw-cluster__segment dw-panel--pulse">
         <img src="{{ photo.path }}" class="dw-panel__content" />
       </div>
@@ -41,7 +45,8 @@
     </div>
     <div class="dw-cluster__segment dw-cluster__segment--col dw-cluster__segment--half">
       {% for photo in data.photos %}
-      {% if loop.cycle(0, 1, 2) == 2 %}
+      {% assign loopindex = forloop.index | modulo: 3 %}
+      {% if loopindex == 2 %}
       <div class="dw-panel dw-cluster__segment dw-panel--pulse">
         <img src="{{ photo.path }}" class="dw-panel__content" />
       </div>
@@ -52,7 +57,8 @@
   <div class="dw-panel dw-cluster dw-cluster--vertical dw-lg">
     <div class="dw-cluster__segment dw-cluster__segment--col dw-cluster__segment--half">
       {% for photo in data.photos %}
-      {% if loop.cycle(0, 1, 2, 3) == 0 %}
+      {% assign loopindex = forloop.index | modulo: 4 %}
+      {% if loopindex == 0 %}
       <div class="dw-panel dw-cluster__segment dw-panel--pulse">
         <img src="{{ photo.path }}" class="dw-panel__content" />
       </div>
@@ -61,7 +67,8 @@
     </div>
     <div class="dw-cluster__segment dw-cluster__segment--col dw-cluster__segment--half">
       {% for photo in data.photos %}
-      {% if loop.cycle(0, 1, 2, 3) == 1 %}
+      {% assign loopindex = forloop.index | modulo: 4 %}
+      {% if loopindex == 1 %}
       <div class="dw-panel dw-cluster__segment dw-panel--pulse">
         <img src="{{ photo.path }}" class="dw-panel__content" />
       </div>
@@ -70,7 +77,8 @@
     </div>
     <div class="dw-cluster__segment dw-cluster__segment--col dw-cluster__segment--half">
       {% for photo in data.photos %}
-      {% if loop.cycle(0, 1, 2, 3) == 2 %}
+      {% assign loopindex = forloop.index | modulo: 4 %}
+      {% if loopindex == 2 %}
       <div class="dw-panel dw-cluster__segment dw-panel--pulse">
         <img src="{{ photo.path }}" class="dw-panel__content" />
       </div>
@@ -79,7 +87,8 @@
     </div>
     <div class="dw-cluster__segment dw-cluster__segment--col dw-cluster__segment--half">
       {% for photo in data.photos %}
-      {% if loop.cycle(0, 1, 2, 3) == 3 %}
+      {% assign loopindex = forloop.index | modulo: 4 %}
+      {% if loopindex == 3 %}
       <div class="dw-panel dw-cluster__segment dw-panel--pulse">
         <img src="{{ photo.path }}" class="dw-panel__content" />
       </div>
