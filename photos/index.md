@@ -5,4 +5,6 @@ nav:
   tooltip: Lab photos
 ---
 
+## Lab photos
+
 {% include masonry.html %}
