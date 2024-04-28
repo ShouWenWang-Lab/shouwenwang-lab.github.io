@@ -1,107 +1,90 @@
+{% assign data = site.data[include.data] | default: site[include.data] | default: emptyarray %}
 <div class="dw">
   <div class="dw-panel dw-cluster dw-cluster--vertical dw-sm">
     <div class="dw-cluster__segment dw-cluster__segment--col dw-cluster__segment--half">
-      <div class="dw-panel dw-cluster__segment dw-panel--pulse">
-        <img src="https://picsum.photos/200/200" class="dw-panel__content"/>
-      </div>
-      <div class="dw-panel dw-cluster__segment dw-panel--pulse">
-        <img src="https://picsum.photos/200/200" class="dw-panel__content"/>
-      </div>
-      <div class="dw-panel dw-cluster__segment dw-panel--pulse">
-        <img src="https://picsum.photos/300/400" class="dw-panel__content"/>
-      </div>
+      {% for photo in data.photos %}
+        {% if loop.cycle(0, 1) == 0 %}
+          <div class="dw-panel dw-cluster__segment dw-panel--pulse">
+            <img src="{{ photo.path }}" class="dw-panel__content"/>
+          </div>
+        {% endif %}
+      {% endfor %}
     </div>
     <div class="dw-cluster__segment dw-cluster__segment--col dw-cluster__segment--half">
-      <div class="dw-panel dw-cluster__segment dw-panel--pulse">
-        <img src="https://picsum.photos/500/400" class="dw-panel__content"/>
-      </div>
-      <div class="dw-panel dw-cluster__segment dw-panel--pulse">
-        <img src="https://picsum.photos/600/200" class="dw-panel__content"/>
-      </div>
-      <div class="dw-panel dw-cluster__segment dw-panel--pulse">
-        <img src="https://picsum.photos/800/600" class="dw-panel__content"/>
-      </div>
+      {% for photo in data.photos %}
+        {% if loop.cycle(0, 1) == 1 %}
+          <div class="dw-panel dw-cluster__segment dw-panel--pulse">
+            <img src="{{ photo.path }}" class="dw-panel__content"/>
+          </div>
+        {% endif %}
+      {% endfor %}
     </div>
   </div>
   <div class="dw-panel dw-cluster dw-cluster--vertical dw-md">
     <div class="dw-cluster__segment dw-cluster__segment--col dw-cluster__segment--half">
-      <div class="dw-panel dw-cluster__segment dw-panel--pulse">
-        <img src="https://picsum.photos/200/200" class="dw-panel__content"/>
-      </div>
-      <div class="dw-panel dw-cluster__segment dw-panel--pulse">
-        <img src="https://picsum.photos/200/200" class="dw-panel__content"/>
-      </div>
-      <div class="dw-panel dw-cluster__segment dw-panel--pulse">
-        <img src="https://picsum.photos/300/400" class="dw-panel__content"/>
-      </div>
+      {% for photo in data.photos %}
+        {% if loop.cycle(0, 1, 2) == 0 %}
+          <div class="dw-panel dw-cluster__segment dw-panel--pulse">
+            <img src="{{ photo.path }}" class="dw-panel__content"/>
+          </div>
+        {% endif %}
+      {% endfor %}
     </div>
     <div class="dw-cluster__segment dw-cluster__segment--col dw-cluster__segment--half">
-      <div class="dw-panel dw-cluster__segment dw-panel--pulse">
-        <img src="https://picsum.photos/500/400" class="dw-panel__content"/>
-      </div>
-      <div class="dw-panel dw-cluster__segment dw-panel--pulse">
-        <img src="https://picsum.photos/600/200" class="dw-panel__content"/>
-      </div>
-      <div class="dw-panel dw-cluster__segment dw-panel--pulse">
-        <img src="https://picsum.photos/800/600" class="dw-panel__content"/>
-      </div>
+      {% for photo in data.photos %}
+        {% if loop.cycle(0, 1, 2) == 1 %}
+          <div class="dw-panel dw-cluster__segment dw-panel--pulse">
+            <img src="{{ photo.path }}" class="dw-panel__content"/>
+          </div>
+        {% endif %}
+      {% endfor %}
     </div>
     <div class="dw-cluster__segment dw-cluster__segment--col dw-cluster__segment--half">
-      <div class="dw-panel dw-cluster__segment dw-panel--pulse">
-        <img src="https://picsum.photos/500/400" class="dw-panel__content"/>
-      </div>
-      <div class="dw-panel dw-cluster__segment dw-panel--pulse">
-        <img src="https://picsum.photos/600/200" class="dw-panel__content"/>
-      </div>
-      <div class="dw-panel dw-cluster__segment dw-panel--pulse">
-        <img src="https://picsum.photos/800/600" class="dw-panel__content"/>
-      </div>
+      {% for photo in data.photos %}
+        {% if loop.cycle(0, 1, 2) == 2 %}
+          <div class="dw-panel dw-cluster__segment dw-panel--pulse">
+            <img src="{{ photo.path }}" class="dw-panel__content"/>
+          </div>
+        {% endif %}
+      {% endfor %}
     </div>
   </div>
   <div class="dw-panel dw-cluster dw-cluster--vertical dw-lg">
     <div class="dw-cluster__segment dw-cluster__segment--col dw-cluster__segment--half">
-      <div class="dw-panel dw-cluster__segment dw-panel--pulse">
-        <img src="https://picsum.photos/200/200" class="dw-panel__content"/>
-      </div>
-      <div class="dw-panel dw-cluster__segment dw-panel--pulse">
-        <img src="https://picsum.photos/200/200" class="dw-panel__content"/>
-      </div>
-      <div class="dw-panel dw-cluster__segment dw-panel--pulse">
-        <img src="https://picsum.photos/300/400" class="dw-panel__content"/>
-      </div>
+      {% for photo in data.photos %}
+        {% if loop.cycle(0, 1, 2, 3) == 0 %}
+          <div class="dw-panel dw-cluster__segment dw-panel--pulse">
+            <img src="{{ photo.path }}" class="dw-panel__content"/>
+          </div>
+        {% endif %}
+      {% endfor %}
     </div>
     <div class="dw-cluster__segment dw-cluster__segment--col dw-cluster__segment--half">
-      <div class="dw-panel dw-cluster__segment dw-panel--pulse">
-        <img src="https://picsum.photos/500/400" class="dw-panel__content"/>
-      </div>
-      <div class="dw-panel dw-cluster__segment dw-panel--pulse">
-        <img src="https://picsum.photos/600/200" class="dw-panel__content"/>
-      </div>
-      <div class="dw-panel dw-cluster__segment dw-panel--pulse">
-        <img src="https://picsum.photos/800/600" class="dw-panel__content"/>
-      </div>
+      {% for photo in data.photos %}
+        {% if loop.cycle(0, 1, 2, 3) == 1 %}
+          <div class="dw-panel dw-cluster__segment dw-panel--pulse">
+            <img src="{{ photo.path }}" class="dw-panel__content"/>
+          </div>
+        {% endif %}
+      {% endfor %}
     </div>
     <div class="dw-cluster__segment dw-cluster__segment--col dw-cluster__segment--half">
-      <div class="dw-panel dw-cluster__segment dw-panel--pulse">
-        <img src="https://picsum.photos/200/200" class="dw-panel__content"/>
-      </div>
-      <div class="dw-panel dw-cluster__segment dw-panel--pulse">
-        <img src="https://picsum.photos/200/200" class="dw-panel__content"/>
-      </div>
-      <div class="dw-panel dw-cluster__segment dw-panel--pulse">
-        <img src="https://picsum.photos/300/400" class="dw-panel__content"/>
-      </div>
+      {% for photo in data.photos %}
+        {% if loop.cycle(0, 1, 2, 3) == 2 %}
+          <div class="dw-panel dw-cluster__segment dw-panel--pulse">
+            <img src="{{ photo.path }}" class="dw-panel__content"/>
+          </div>
+        {% endif %}
+      {% endfor %}
     </div>
     <div class="dw-cluster__segment dw-cluster__segment--col dw-cluster__segment--half">
-      <div class="dw-panel dw-cluster__segment dw-panel--pulse">
-        <img src="https://picsum.photos/500/400" class="dw-panel__content"/>
-      </div>
-      <div class="dw-panel dw-cluster__segment dw-panel--pulse">
-        <img src="https://picsum.photos/600/200" class="dw-panel__content"/>
-      </div>
-      <div class="dw-panel dw-cluster__segment dw-panel--pulse">
-        <img src="https://picsum.photos/800/600" class="dw-panel__content"/>
-      </div>
+      {% for photo in data.photos %}
+        {% if loop.cycle(0, 1, 2, 3) == 3 %}
+          <div class="dw-panel dw-cluster__segment dw-panel--pulse">
+            <img src="{{ photo.path }}" class="dw-panel__content"/>
+          </div>
+        {% endif %}
+      {% endfor %}
     </div>
   </div>
 </div>
@@ -287,7 +270,7 @@
     }
 
     img {
-        max-height: 300px;
+        max-height: 320px;
         object-fit: cover;
     }
     img.dw-panel__content,
