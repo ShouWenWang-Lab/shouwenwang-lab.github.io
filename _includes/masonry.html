@@ -1,5 +1,86 @@
 <div class="dw">
-  <div class="dw-panel dw-cluster dw-cluster--vertical">
+  <div class="dw-panel dw-cluster dw-cluster--vertical dw-sm">
+    <div class="dw-cluster__segment dw-cluster__segment--col dw-cluster__segment--half">
+      <div class="dw-panel dw-cluster__segment dw-panel--pulse">
+        <img src="https://picsum.photos/200/200" class="dw-panel__content"/>
+      </div>
+      <div class="dw-panel dw-cluster__segment dw-panel--pulse">
+        <img src="https://picsum.photos/200/200" class="dw-panel__content"/>
+      </div>
+      <div class="dw-panel dw-cluster__segment dw-panel--pulse">
+        <img src="https://picsum.photos/300/400" class="dw-panel__content"/>
+      </div>
+    </div>
+    <div class="dw-cluster__segment dw-cluster__segment--col dw-cluster__segment--half">
+      <div class="dw-panel dw-cluster__segment dw-panel--pulse">
+        <img src="https://picsum.photos/500/400" class="dw-panel__content"/>
+      </div>
+      <div class="dw-panel dw-cluster__segment dw-panel--pulse">
+        <img src="https://picsum.photos/600/200" class="dw-panel__content"/>
+      </div>
+      <div class="dw-panel dw-cluster__segment dw-panel--pulse">
+        <img src="https://picsum.photos/800/600" class="dw-panel__content"/>
+      </div>
+    </div>
+  </div>
+  <div class="dw-panel dw-cluster dw-cluster--vertical dw-md">
+    <div class="dw-cluster__segment dw-cluster__segment--col dw-cluster__segment--half">
+      <div class="dw-panel dw-cluster__segment dw-panel--pulse">
+        <img src="https://picsum.photos/200/200" class="dw-panel__content"/>
+      </div>
+      <div class="dw-panel dw-cluster__segment dw-panel--pulse">
+        <img src="https://picsum.photos/200/200" class="dw-panel__content"/>
+      </div>
+      <div class="dw-panel dw-cluster__segment dw-panel--pulse">
+        <img src="https://picsum.photos/300/400" class="dw-panel__content"/>
+      </div>
+    </div>
+    <div class="dw-cluster__segment dw-cluster__segment--col dw-cluster__segment--half">
+      <div class="dw-panel dw-cluster__segment dw-panel--pulse">
+        <img src="https://picsum.photos/500/400" class="dw-panel__content"/>
+      </div>
+      <div class="dw-panel dw-cluster__segment dw-panel--pulse">
+        <img src="https://picsum.photos/600/200" class="dw-panel__content"/>
+      </div>
+      <div class="dw-panel dw-cluster__segment dw-panel--pulse">
+        <img src="https://picsum.photos/800/600" class="dw-panel__content"/>
+      </div>
+    </div>
+    <div class="dw-cluster__segment dw-cluster__segment--col dw-cluster__segment--half">
+      <div class="dw-panel dw-cluster__segment dw-panel--pulse">
+        <img src="https://picsum.photos/500/400" class="dw-panel__content"/>
+      </div>
+      <div class="dw-panel dw-cluster__segment dw-panel--pulse">
+        <img src="https://picsum.photos/600/200" class="dw-panel__content"/>
+      </div>
+      <div class="dw-panel dw-cluster__segment dw-panel--pulse">
+        <img src="https://picsum.photos/800/600" class="dw-panel__content"/>
+      </div>
+    </div>
+  </div>
+  <div class="dw-panel dw-cluster dw-cluster--vertical dw-lg">
+    <div class="dw-cluster__segment dw-cluster__segment--col dw-cluster__segment--half">
+      <div class="dw-panel dw-cluster__segment dw-panel--pulse">
+        <img src="https://picsum.photos/200/200" class="dw-panel__content"/>
+      </div>
+      <div class="dw-panel dw-cluster__segment dw-panel--pulse">
+        <img src="https://picsum.photos/200/200" class="dw-panel__content"/>
+      </div>
+      <div class="dw-panel dw-cluster__segment dw-panel--pulse">
+        <img src="https://picsum.photos/300/400" class="dw-panel__content"/>
+      </div>
+    </div>
+    <div class="dw-cluster__segment dw-cluster__segment--col dw-cluster__segment--half">
+      <div class="dw-panel dw-cluster__segment dw-panel--pulse">
+        <img src="https://picsum.photos/500/400" class="dw-panel__content"/>
+      </div>
+      <div class="dw-panel dw-cluster__segment dw-panel--pulse">
+        <img src="https://picsum.photos/600/200" class="dw-panel__content"/>
+      </div>
+      <div class="dw-panel dw-cluster__segment dw-panel--pulse">
+        <img src="https://picsum.photos/800/600" class="dw-panel__content"/>
+      </div>
+    </div>
     <div class="dw-cluster__segment dw-cluster__segment--col dw-cluster__segment--half">
       <div class="dw-panel dw-cluster__segment dw-panel--pulse">
         <img src="https://picsum.photos/200/200" class="dw-panel__content"/>
@@ -236,5 +317,28 @@
     }
     img.dw-flip__panel {
         max-height: 100%;
+    }
+
+    .dw-md {
+        display: none;
+    }
+    .dw-lg {
+        display: none;
+    }
+    @media (min-width: 768px) {
+        .dw-sm {
+            display: none;
+        }
+        .dw-md {
+            display: flex;
+        }
+    }
+    @media (min-width: 1024px) {
+        .dw-sm {
+            display: none;
+        }
+        .dw-lg {
+            display: flex;
+        }
     }
 </style>
