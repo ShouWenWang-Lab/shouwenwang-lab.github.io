@@ -6,7 +6,7 @@
       {% assign loopindex = forloop.index | modulo: 2 %}
       {% if loopindex == 0 %}
       <div class="dw-panel dw-cluster__segment dw-panel--pulse">
-        <img src="{{ photo.path }}" class="dw-panel__content" />
+        <img src="{{ photo.path | relative_url }}" class="dw-panel__content" />
       </div>
       {% endif %}
       {% endfor %}
@@ -16,7 +16,7 @@
       {% assign loopindex = forloop.index | modulo: 2 %}
       {% if loopindex == 1 %}
       <div class="dw-panel dw-cluster__segment dw-panel--pulse">
-        <img src="{{ photo.path }}" class="dw-panel__content" />
+        <img src="{{ photo.path | relative_url }}" class="dw-panel__content" />
       </div>
       {% endif %}
       {% endfor %}
@@ -28,7 +28,7 @@
       {% assign loopindex = forloop.index | modulo: 3 %}
       {% if loopindex == 0 %}
       <div class="dw-panel dw-cluster__segment dw-panel--pulse">
-        <img src="{{ photo.path }}" class="dw-panel__content" />
+        <img src="{{ photo.path | relative_url }}" class="dw-panel__content" />
       </div>
       {% endif %}
       {% endfor %}
@@ -38,7 +38,7 @@
       {% assign loopindex = forloop.index | modulo: 3 %}
       {% if loopindex == 1 %}
       <div class="dw-panel dw-cluster__segment dw-panel--pulse">
-        <img src="{{ photo.path }}" class="dw-panel__content" />
+        <img src="{{ photo.path | relative_url }}" class="dw-panel__content" />
       </div>
       {% endif %}
       {% endfor %}
@@ -48,7 +48,7 @@
       {% assign loopindex = forloop.index | modulo: 3 %}
       {% if loopindex == 2 %}
       <div class="dw-panel dw-cluster__segment dw-panel--pulse">
-        <img src="{{ photo.path }}" class="dw-panel__content" />
+        <img src="{{ photo.path | relative_url }}" class="dw-panel__content" />
       </div>
       {% endif %}
       {% endfor %}
@@ -60,7 +60,7 @@
       {% assign loopindex = forloop.index | modulo: 4 %}
       {% if loopindex == 0 %}
       <div class="dw-panel dw-cluster__segment dw-panel--pulse">
-        <img src="{{ photo.path }}" class="dw-panel__content" />
+        <img src="{{ photo.path | relative_url }}" class="dw-panel__content" />
       </div>
       {% endif %}
       {% endfor %}
@@ -70,7 +70,7 @@
       {% assign loopindex = forloop.index | modulo: 4 %}
       {% if loopindex == 1 %}
       <div class="dw-panel dw-cluster__segment dw-panel--pulse">
-        <img src="{{ photo.path }}" class="dw-panel__content" />
+        <img src="{{ photo.path | relative_url }}" class="dw-panel__content" />
       </div>
       {% endif %}
       {% endfor %}
@@ -80,7 +80,7 @@
       {% assign loopindex = forloop.index | modulo: 4 %}
       {% if loopindex == 2 %}
       <div class="dw-panel dw-cluster__segment dw-panel--pulse">
-        <img src="{{ photo.path }}" class="dw-panel__content" />
+        <img src="{{ photo.path | relative_url }}" class="dw-panel__content" />
       </div>
       {% endif %}
       {% endfor %}
@@ -90,7 +90,7 @@
       {% assign loopindex = forloop.index | modulo: 4 %}
       {% if loopindex == 3 %}
       <div class="dw-panel dw-cluster__segment dw-panel--pulse">
-        <img src="{{ photo.path }}" class="dw-panel__content" />
+        <img src="{{ photo.path | relative_url }}" class="dw-panel__content" />
       </div>
       {% endif %}
       {% endfor %}
