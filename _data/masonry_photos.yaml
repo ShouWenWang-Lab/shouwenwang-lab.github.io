@@ -1,21 +1,5 @@
 photos:
   - path: images/masonry_photos/a.jpg
-#   - path: images/masonry_photos/b.jpg
-#   - path: images/masonry_photos/c.jpg
-#   - path: images/masonry_photos/d.jpg
   - path: images/masonry_photos/b.jpg
-#   - path: images/masonry_photos/b.jpg
-#   - path: images/masonry_photos/c.jpg
-#   - path: images/masonry_photos/d.jpg
-#   - path: images/masonry_photos/c.jpg
-#   - path: images/masonry_photos/b.jpg
-#   - path: images/masonry_photos/c.jpg
-#   - path: images/masonry_photos/d.jpg
-#   - path: images/masonry_photos/d.jpg
-#   - path: images/masonry_photos/b.jpg
-#   - path: images/masonry_photos/c.jpg
-#   - path: images/masonry_photos/d.jpg
-#   - path: images/masonry_photos/a.jpg
-#   - path: images/masonry_photos/b.jpg
-#   - path: images/masonry_photos/c.jpg
-#   - path: images/masonry_photos/d.jpg
+  - path: images/masonry_photos/c.jpg
+  - path: images/masonry_photos/d.jpg
