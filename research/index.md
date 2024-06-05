@@ -13,7 +13,7 @@ nav:
   width="100%"
 %}
 
-We seek to systematically and quantitatively understand cell fate choice by integrating measurements across different modalities at single cells. We have established close collaboration with leading experts in the field to perform single-cell multi-omic lineage tracing, where we simultaneously measure lineage barcodes, transcriptome, DNA methylation, and chromatin accessibility in single cells. This provides us with the unique opportunity to systematically understand the relationship/regulation between different modalities, and how they collectively contribute to cell fate choice. 
+As a team of computational and experimental biologists, we seek to systematically and quantitatively understand cell fate choice and tissue homeostasis by integrating measurements across different modalities at single cells. To do so, we carry out single-cell multi-omic lineage tracing, where we simultaneously measure lineage barcodes, transcriptome, DNA methylation, and chromatin accessibility in single cells. This provides us with the unique opportunity to systematically understand the relationship/regulation between different modalities, and how they collectively contribute to cell fate choice and tissue homeostasis. 
 
  {%
   include figure.html
@@ -21,4 +21,4 @@ We seek to systematically and quantitatively understand cell fate choice by inte
   width="100%"
 %}
 
-We are also excited to extend our efforts to predict and understand cell fate choice under perturbation and disease, especially using lineage tracing approaches. Please check out our [publications](/publications). We also welcome talented and highly motivated individuals to [join our team](/join-us)!
+We are also actively developing new lineage tracing methods that could have broad impact in future studies. Please check out our [publications](/publications). We also welcome talented and highly motivated individuals to [join our team](/join-us)!
