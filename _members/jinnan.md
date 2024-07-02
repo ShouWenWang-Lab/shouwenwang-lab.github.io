@@ -1,10 +1,10 @@
 ---
 name: Jinnan Sun
 image: images/members/jinnan.jpg
-description: Visiting Student
-role: vstu
+description: PhD Student
+role: phd
 links:
-  email: 3121307038@stu.xjtu.edu.cn
+  email: sunjinnan@westlake.edu.cn
 ---
 
-Jinnan Sun received the B.S. degree in Mathematics and Applied Mathematics from Liaoning University in 2021. She is currently enrolled in the School of Mathematics and Statistics, University of Xi'an Jiaotong University for her master's degree.
+Jinnan Sun received her B.S. degree in Mathematics and Applied Mathematics from Liaoning University in 2021, and obtained her master degree in Mathematics and Statistics from University of Xi'an Jiaotong University in 2024. She is a PhD student in Physics at Westlake University. 
