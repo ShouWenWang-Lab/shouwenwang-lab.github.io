@@ -7,4 +7,4 @@ links:
   email: yanhaoATwestlake.edu.cn
 ---
 
-Yan Hao is a visiting PhD student at Westlake University.
+Hao has a background in biology. Since 2024, he has been a visiting PhD student at Westlake University. 
