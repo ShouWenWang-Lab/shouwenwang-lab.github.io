@@ -1,4 +1,5 @@
 ---
+noindex: true
 name: Hao Yan
 image: images/members/yanhao.jpg
 description: Visiting Student
