@@ -2,7 +2,7 @@
 title: Team
 noindex: true
 nav:
-  order: 1
+  order: 2
   tooltip: About our team
 ---
 
