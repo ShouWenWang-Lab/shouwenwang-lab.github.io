@@ -1,7 +1,7 @@
 ---
 title: Join
 nav:
-  order: 3
+  order: 4
   tooltip: Position information
 ---
 

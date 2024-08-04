@@ -1,7 +1,7 @@
 ---
 title: Tools
 nav:
-  order: 5
+  order: 6
   tooltip: Software, pipelines, and more
 ---
 
