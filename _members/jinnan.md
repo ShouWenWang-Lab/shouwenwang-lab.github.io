@@ -7,4 +7,4 @@ links:
   email: sunjinnan@westlake.edu.cn
 ---
 
-Jinnan Sun received her B.S. degree in Mathematics and Applied Mathematics from Liaoning University in 2021, and obtained her master degree in Mathematics and Statistics from University of Xi'an Jiaotong University in 2024. She is a PhD student in Physics at Westlake University. 
+Jinnan received a master's degree in applied statistics from Xi'an Jiaotong University in 2024. Currently, she is pursuing a PhD in physics at Westlake University. During her Ph.D., she will develop bioinformatics tools based on physics and biology, and conduct data analysis and application.
