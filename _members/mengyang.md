@@ -1,8 +1,8 @@
 ---
 name: Mengyang Chen
 image: images/members/mengyang.jpg
-description: Research Assistant
-role: ra
+description: PhD Student
+role: phd
 links:
   email: chenmengyang@westlake.edu.cn
 ---
