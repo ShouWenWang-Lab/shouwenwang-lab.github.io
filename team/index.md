@@ -44,4 +44,4 @@ nav:
 
 - Chengkun Yang (Emory U. undergraduate), summer intern, 2023.7-2023.8
 - Xiunan Fang (Hong Kong U. PhD), visiting student, 2023.11-2023.12
-- Hao Yan (PhD), visiting student, 2024.3-2024.9
+- Hao Yan (Beijing Institute of Radiation Medicine. PhD), visiting student, 2024.3-2024.9
