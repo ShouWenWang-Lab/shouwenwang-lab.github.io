@@ -1,7 +1,7 @@
 ---
 name: Yiyang Wang
 image: images/members/yiyang.jpg
-description: PhD Student
+description: Wet Lab
 role: phd
 links:
   email: wangyiyang@westlake.edu.cn
