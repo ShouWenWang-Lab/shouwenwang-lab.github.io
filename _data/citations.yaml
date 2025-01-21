@@ -1,6 +1,27 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: 10.1038/s41592-024-02567-1
+  title: High-resolution, noninvasive single-cell lineage tracing in mice and humans based on DNA methylation epimutations
+  authors: Mengyang Chen, Ruijiang Fu, Yiqian Chen, Li Li & Shou-Wen Wang
+  publisher: Nature Methods
+  date: '2025-01-16'
+  link: https://www.nature.com/articles/s41592-024-02567-1
+  image: images/paper_image/Methyltree.jpeg
+  extra-links:
+  - type: preprint
+    link: pdfs/MethylTree.pdf
+    text: Main text
+  - type: preprint
+    link: https://github.com/ShouWenWang-Lab/MethylTree
+    text: Code
+  tags:
+  - Lineage tracing
+  - Multiomics
+  - Cell fate
+  - Clonal memory
+  - Migration
+
 - id: 10.1016/j.cell.2023.09.019
   title: A mouse model with high clonal barcode diversity for joint lineage, transcriptomic, and epigenomic profiling in single cells
   authors: L. Li, ..., Shou-Wen Wang*, Fernando D. Camargo*
