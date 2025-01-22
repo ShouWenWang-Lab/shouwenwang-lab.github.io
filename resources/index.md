@@ -28,3 +28,5 @@ nav:
 - The story behind DARLIN & Camellia-seq by [DeepTech](https://mp.weixin.qq.com/s/MvbXwctyKg_0eA5zYb0fwg).
 
 - MethylTree from [BioArt](https://mp.weixin.qq.com/s/CHSVPGjG-WFkupSbAyRibg).
+
+- MethylTree [News from Westlake University](https://www.westlake.edu.cn/news_events/westlakenews/academics/202501/t20250117_52456.shtml)
