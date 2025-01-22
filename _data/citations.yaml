@@ -18,9 +18,7 @@
   tags:
   - Lineage tracing
   - Multiomics
-  - Cell fate
   - Clonal memory
-  - Migration
 
 - id: 10.1016/j.cell.2023.09.019
   title: A mouse model with high clonal barcode diversity for joint lineage, transcriptomic, and epigenomic profiling in single cells
