@@ -20,6 +20,19 @@
   - Multiomics
   - Clonal memory
 
+- id: 10.1038/s41592-024-02568-0
+  title: "MethylTree: exploring epimutations for accurate and non-invasive lineage tracing"""
+  publisher: Nature Methods
+  date: '2025-01-16'
+  link: https://www.nature.com/articles/s41592-024-02568-0
+  image: images/paper_image/methyltree_highlight.png
+  extra-links:
+  - type: preprint
+    link: pdfs/methyltree_research_briefing.pdf
+    text: Main text
+  tags:
+  - Research Briefing
+
 - id: 10.1016/j.cell.2023.09.019
   title: A mouse model with high clonal barcode diversity for joint lineage, transcriptomic, and epigenomic profiling in single cells
   authors: L. Li, ..., Shou-Wen Wang*, Fernando D. Camargo*
