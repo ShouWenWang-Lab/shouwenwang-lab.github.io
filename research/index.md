@@ -20,13 +20,16 @@ We are devoted to developing advanced lineage tracing tools and applying them to
 
 
 
-MethylTree opens the door for lineage tracing in humans. Currently, our whole lab is revolved around DNA methylation. **We have established a reliable platform to jointly generate DNA methylome and transcriptome in single cells**. Half of the lab members are devoted to platform development and data generation, while the remaining are working on computational analysis and algorithm development. These efforts are integrated together towards the same goal: **resovling cell lineages in humans**. 
-
-
-Below are our research directions:
+MethylTree opens the door for lineage tracing in humans. Currently, our whole lab is revolved around DNA methylation. **We have established a reliable platform to jointly generate DNA methylome and transcriptome in single cells**. Half of the lab members are devoted to platform development and data generation, while the remaining are working on computational analysis and algorithm development. These efforts are integrated together towards the same goal: **resovling cell lineages in humans**. Below are our research directions:
 * We are now collaborating with hospitals to collect clinical samples and carry out non-invasive single-cell multiomic lineage tracing on humans. 
 * We are also seeking to further improve methylation-based lineage tracing approach, both experimentally and computationally. 
 * We are also carrying out experiments to further our understanding of DNA methylation biology. 
 
 
 If you also share our passion that DNA methylation is a powerful source of information for lineage tracing, please [join our team](/join-us)!
+
+ {%
+  include figure.html
+  image="images/paper_image/Methyltree.jpeg"
+  width="100%"
+%}
