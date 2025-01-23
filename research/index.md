@@ -31,5 +31,5 @@ If you also share our passion that DNA methylation is a powerful source of infor
  {%
   include figure.html
   image="images/paper_image/Methyltree.jpeg"
-  width="100%"
+  height="50%"
 %}
