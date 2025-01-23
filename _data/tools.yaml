@@ -1,5 +1,14 @@
+- title: Methyltree
+  group: featured
+  image: images/paper_image/methyltree_highlight.png
+  link: https://github.com/ShouWenWang-Lab/MethylTree
+  description: MethylTree enables non-invasive single-cell multiomic lineage tracing from joint single-cell DNA methylome and transcriptomic measurement, based on [Chen et al. Nature Methods (2025)](https://www.nature.com/articles/s41592-024-02567-1).
+  repo: https://github.com/ShouWenWang-Lab/MethylTree
+  tags:
+    - software
+
 - title: CoSpar
-  subtitle: Dynamic inference by integrating state and lineage information
+  # subtitle: Dynamic inference by integrating state and lineage information
   group: featured
   image: images/paper_image/cospar.png
   link: https://cospar.readthedocs.io/en/latest/
