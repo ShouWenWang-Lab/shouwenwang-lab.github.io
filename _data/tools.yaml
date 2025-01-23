@@ -2,7 +2,7 @@
   group: featured
   image: images/paper_image/methyltree_lineage.png
   link: https://github.com/ShouWenWang-Lab/MethylTree
-  description: MethylTree enables non-invasive single-cell multiomic lineage tracing from joint single-cell DNA methylome and transcriptomic measurement, based on Chen & Fu et.al., Nature Methods (2025)](https://www.nature.com/articles/s41592-024-02567-1).
+  description: MethylTree enables non-invasive single-cell multiomic lineage tracing from joint single-cell DNA methylome and transcriptomic measurement, based on [Chen & Fu et.al., Nature Methods (2025)](https://www.nature.com/articles/s41592-024-02567-1).
   repo: https://github.com/ShouWenWang-Lab/MethylTree
   tags:
     - software
