@@ -19,6 +19,8 @@ nav:
 
 - 2024-11-06, The presentation video of Methyltree at an academic conference,availabe in [Youtube](https://www.youtube.com/watch?v=lDAuj-LEIHs)
 
+- 2025-03-12, [MethylTree科普版中文视频](https://video-mediaxbase.xdplus.cn/media/xdkb/media/202503/12/5baea644e19e00389c2e61fd.mp4)
+
 ## Media report
 
 - CoSpar from [BioArt](https://mp.weixin.qq.com/s/qwkJXSG8bkJDcIEH87Prbw).
@@ -30,5 +32,3 @@ nav:
 - MethylTree from [BioArt](https://mp.weixin.qq.com/s/CHSVPGjG-WFkupSbAyRibg).
 
 - MethylTree [News from Westlake University](https://www.westlake.edu.cn/news_events/westlakenews/academics/202501/t20250117_52456.shtml)
-
-- [MethylTree科普版中文视频](https://video-mediaxbase.xdplus.cn/media/xdkb/media/202503/12/5baea644e19e00389c2e61fd.mp4)
