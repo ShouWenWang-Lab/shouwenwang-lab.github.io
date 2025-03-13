@@ -30,3 +30,5 @@ nav:
 - MethylTree from [BioArt](https://mp.weixin.qq.com/s/CHSVPGjG-WFkupSbAyRibg).
 
 - MethylTree [News from Westlake University](https://www.westlake.edu.cn/news_events/westlakenews/academics/202501/t20250117_52456.shtml)
+
+- MethylTree [News from xdplus](https://app.xdplus.cn/xdkb/template/displayTemplate/news/newsDetail/39/116516.html)
