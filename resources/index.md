@@ -31,4 +31,4 @@ nav:
 
 - MethylTree [News from Westlake University](https://www.westlake.edu.cn/news_events/westlakenews/academics/202501/t20250117_52456.shtml)
 
-- MethylTree [News from xdplus](https://app.xdplus.cn/xdkb/template/displayTemplate/news/newsDetail/39/116516.html)
+- [MethylTree科普版中文视频](https://video-mediaxbase.xdplus.cn/media/xdkb/media/202503/12/5baea644e19e00389c2e61fd.mp4)
