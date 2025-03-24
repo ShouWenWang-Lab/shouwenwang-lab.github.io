@@ -1,6 +1,21 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: 10.1038/s41596-025-01141-z
+  title: DARLIN mouse for in vivo lineage tracing at high efficiency and clonal diversity
+  authors: Li Li, Sarah Bowling, Hongying Lin, Daolong Chen, Shou-Wen Wang* & Fernando D. Camargo*
+  publisher: Nature Protocols
+  date: '2025-03-21'
+  link: https://www.nature.com/articles/s41596-025-01141-z
+  image: 'images/paper_image/DARLIN_mouse.png'
+  extrra-links:
+  - type: preprint
+    link: pdfs/DARLIN_mouse_protocol.pdf
+    text: Main text
+  tags:
+  - Lineage tracing
+  - Protocol
+
 - id: 10.1038/s41592-024-02567-1
   title: High-resolution, noninvasive single-cell lineage tracing in mice and humans based on DNA methylation epimutations
   authors: Mengyang Chen, Ruijiang Fu, Yiqian Chen, Li Li* & Shou-Wen Wang*
