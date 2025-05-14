@@ -30,6 +30,9 @@
   - type: preprint
     link: https://github.com/ShouWenWang-Lab/MethylTree
     text: Code
+  - type: preprint
+    link: https://www.youtube.com/watch?v=P2Wi74vOJTQ&t=135s
+    text: Video
   tags:
   - Lineage tracing
   - Multiomics

@@ -21,6 +21,8 @@ nav:
 
 - 2025-03-12, [MethylTree科普版中文视频](https://video-mediaxbase.xdplus.cn/media/xdkb/media/202503/12/5baea644e19e00389c2e61fd.mp4)
 
+- 2025-04-23, The presentation video of MethylTree at Westlake -Science Joint Symposium, available in [Youtube](https://www.youtube.com/watch?v=P2Wi74vOJTQ&t=135s)(Recommended!)
+
 ## Media report
 
 - CoSpar from [BioArt](https://mp.weixin.qq.com/s/qwkJXSG8bkJDcIEH87Prbw).
