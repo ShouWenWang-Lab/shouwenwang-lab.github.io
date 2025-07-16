@@ -7,7 +7,7 @@ nav:
 
 ## Plasmid
 
-- The (plasmid map)[https://westlakeu-my.sharepoint.com/:u:/g/personal/wangshouwen_westlake_edu_cn/EdqnbwmdjVtIrt1CafwZPI4BCRE4jkc_DnT0m64xoa9HKg?e=J4JEc3] for Cas9-TdT used in DARLIN mice.
+- The [plasmid map for Cas9-TdT](https://westlakeu-my.sharepoint.com/:u:/g/personal/wangshouwen_westlake_edu_cn/EdqnbwmdjVtIrt1CafwZPI4BCRE4jkc_DnT0m64xoa9HKg?e=J4JEc3) used in DARLIN mice.
 
 ## Videos
 
