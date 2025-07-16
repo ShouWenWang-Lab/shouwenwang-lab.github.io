@@ -5,6 +5,10 @@ nav:
   tooltip: Learning materials for single-cell genomics
 ---
 
+## Plasmid
+
+- The (plasmid map)[https://westlakeu-my.sharepoint.com/:u:/g/personal/wangshouwen_westlake_edu_cn/EdqnbwmdjVtIrt1CafwZPI4BCRE4jkc_DnT0m64xoa9HKg?e=J4JEc3] for Cas9-TdT used in DARLIN mice.
+
 ## Videos
 
 - 2022-06-01, a 20-min short talk about [the utility of CoSpar](https://www.youtube.com/watch?v=HrDQpW3kJFo)
