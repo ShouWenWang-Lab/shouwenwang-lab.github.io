@@ -47,3 +47,4 @@ nav:
 - Hao Yan (Beijing Institute of Radiation Medicine. PhD), visiting student, 2024.3-2024.9
 - Weiting Yu (Shandong Normal U. master), research assistant, 2024.8-2025.3
 - Xiaoke Liu (Southern Medical U. master), research assistant, 2024.6-2025.4
+- Yuning Xu (Yunnan U. undergraduate), summer intern, 2025.7-2025.8
