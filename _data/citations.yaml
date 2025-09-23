@@ -1,6 +1,22 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: 10.1002/qub2.70017
+  title: DNA methylation meets lineage tracing: History, recent progress, and future directions
+  authors: Ruijiang Fu, Mengyang Chen, Shou-Wen Wang*
+  publisher: Quantitative Biology
+  date: '2025-09-21'
+  link: https://onlinelibrary.wiley.com/doi/10.1002/qub2.70017
+  image: 'images/paper_image/2025_perspective.png'
+  extra-links:
+  - type: preprint
+    link: pdfs/2025_perspective.pdf
+    text: Main text
+  tags:
+  - DNA methylation
+  - Clonal memory
+  - Perspective
+
 - id: 10.1038/s41596-025-01141-z
   title: DARLIN mouse for in vivo lineage tracing at high efficiency and clonal diversity
   authors: Li Li, Sarah Bowling, Hongying Lin, Daolong Chen, Shou-Wen Wang* & Fernando D. Camargo*
