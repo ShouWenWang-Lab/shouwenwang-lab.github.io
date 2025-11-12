@@ -9,7 +9,7 @@ nav:
 
 - 2025.10, Mengyang and Ruijiang won the **National Scholarship**. Congratulates!
 - 2025.9, Our **perspective on DNA methylation–based lineage tracing** has been published. Congratulates!
-- 2025.3, The **DARLIN mouse protocol** has been published.Congratulates!
+- 2025.3, The **DARLIN mouse protocol** has been published. Congratulates!
 - 2025.1, The **first paper from our lab: *MethylTree* ** got published. Congratulates to Mengyang and Ruijiang!
 
 ## 2024
