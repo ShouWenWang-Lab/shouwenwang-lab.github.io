@@ -14,7 +14,7 @@ nav:
 
 ## 2024
 
-- 2024.10, Mengyang got the **outstanding academic poster award** in Aging Conference 2024 (Westlake University, Hangzhou). Congratulations!
+- 2024.11, Mengyang got the **outstanding academic poster award** in Aging Conference 2024 (Westlake University, Hangzhou). Congratulations!
 - 2024.10, Ruijiang got the **first poster award** in Computational Biology of the Genome conference(CSHA, Suzhou). Congratulations!
 
 ## 2023
