@@ -5,12 +5,16 @@ nav:
   tooltip: Lab achievements
 ---
 
+
+## 2026
+ - 2026.4, Our invited review on DNA methylation–based lineage tracing was published in the Journal Club section of **Nature Reviews Genetics**. Congratulations!
+
 ## 2025
 
-- 2025.10, Mengyang and Ruijiang won the **National Scholarship**. Congratulates!
-- 2025.9, Our **perspective on DNA methylation–based lineage tracing** has been published. Congratulates!
-- 2025.3, The **DARLIN mouse protocol** has been published. Congratulates!
-- 2025.1, The **first paper from our lab: MethylTree** got published. Congratulates to Mengyang and Ruijiang!
+- 2025.10, Mengyang and Ruijiang won the **National Scholarship**. Congratulations!
+- 2025.9, Our **perspective on DNA methylation–based lineage tracing** has been published. Congratulations!
+- 2025.3, The **DARLIN mouse protocol** has been published. Congratulations!
+- 2025.1, The **first paper from our lab: MethylTree** got published. Congratulations to Mengyang and Ruijiang!
 
 ## 2024
 
