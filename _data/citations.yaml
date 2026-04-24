@@ -1,6 +1,22 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: 0.1038/s41576-026-00958-y
+  title: "Reading cell division histories from the methylome"
+  authors: Shou-Wen Wang (王寿文)
+  publisher: Nature Reviews Genetics
+  date: '2026-04-22'
+  link: https://www.nature.com/articles/s41576-026-00958-y#citeas
+  image: 'images/paper_image/2026_nature_review.png'
+  extra-links:
+  - type: preprint
+    link: pdfs/2026_nature_reviews_genetics.pdf
+    text: Main text
+  tags:
+  - DNA methylation
+  - Clonal memory
+  - Journal Club
+
 - id: 10.1002/qub2.70017
   title: "DNA methylation meets lineage tracing: History, recent progress, and future directions"
   authors: Ruijiang Fu, Mengyang Chen, Shou-Wen Wang*
@@ -31,6 +47,7 @@
   tags:
   - Lineage tracing
   - Protocol
+
 
 - id: 10.1038/s41592-024-02567-1
   title: High-resolution, noninvasive single-cell lineage tracing in mice and humans based on DNA methylation epimutations
