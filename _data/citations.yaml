@@ -1,6 +1,22 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: 10.1016/j.stem.2026.05.001
+  title: "Evolving strategies for lineage tracing: Genetic markers, synthetic barcodes, and natural variants"
+  authors: Zhixin Kang, Hui Chen, Siyang Li, Shou-Wen Wang* & Bin Zhou*
+  publisher: Cell Stem Cell
+  date: '2026-05-29'
+  link: https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(26)00193-1
+  image: 'images/paper_image/2026_CellStemCell.png'
+  extra-links:
+  - type: preprint
+    link: pdfs/2026_review_CellStemCell.pdf
+    text: Main text
+  tags:
+  - Lineage tracing
+  - DNA methylation
+  - Review
+
 - id: 0.1038/s41576-026-00958-y
   title: "Reading cell division histories from the methylome"
   authors: Shou-Wen Wang (王寿文)

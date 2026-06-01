@@ -7,6 +7,7 @@ nav:
 
 
 ## 2026
+ - 2026.5, In collaboration with the [Zhou Lab](https://zhoulab-tracing.sibcb.ac.cn), our review on lineage tracing was published in **Cell Stem Cell**. Congratulations to Siyang and the team!
  - 2026.4, Our invited review on DNA methylation–based lineage tracing was published in the Journal Club section of **Nature Reviews Genetics**. Congratulations!
 
 ## 2025
