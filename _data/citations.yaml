@@ -1,6 +1,24 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+
+- id: 10.1038/s41592-026-03151-5
+  title: "Spatio-DARLIN enables robust and efficient in situ lineage tracing in mice at single-cell resolution"
+  authors: Jianing Gao (高佳宁), Zhanhao Zhang (张展浩), Daolong Chen (陈道龙), Sijie Diao (刁思捷), Simin Liu (刘思敏), Shou-Wen Wang (王寿文)* & Li Li (李莉)*
+  publisher: Nature Methods
+  date: '2026-06-29'
+  link: https://www.nature.com/articles/s41592-026-03151-5#citeas
+  image: 'images/paper_image/2026_nature_method_sDARLIN.png'
+  extra-links:
+  - type: preprint
+    link: pdfs/2026_nature_method_sDARLIN.pdf
+    text: Main text
+  tags:
+  - Spatially resolved lineage tracing
+  - DARLIN
+  - Intestine
+  - Brain
+
 - id: 10.1016/j.stem.2026.05.001
   title: "Evolving strategies for lineage tracing: Genetic markers, synthetic barcodes, and natural variants"
   authors: Zhixin Kang, Hui Chen, Siyang Li, Shou-Wen Wang* & Bin Zhou*
