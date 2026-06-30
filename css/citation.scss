@@ -52,6 +52,12 @@
       font-weight: $semi-bold;
     }
 
+    .citation_authors {
+      white-space: normal;
+      overflow: visible;
+      text-overflow: clip;
+    }
+
     .tags {
       justify-content: flex-start;
       margin: 0;
