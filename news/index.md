@@ -21,7 +21,7 @@ nav:
 
 - 2025.3, The **DARLIN mouse protocol** has been published. Congratulations!
 
-- 2025.1, The **first paper from our lab: MethylTree** got published. Congratulations to Mengyang and Ruijiang! [BioArt](https://mp.weixin.qq.com/s/CHSVPGjG-WFkupSbAyRibg) | [Westlake University](https://www.westlake.edu.cn/news_events/westlakenews/academics/202501/t20250117_52456.shtml)
+- 2025.1, The **first paper from our lab: MethylTree** got published. Congratulations to Mengyang and Ruijiang! [BioArt](https://mp.weixin.qq.com/s/CHSVPGjG-WFkupSbAyRibg) [Westlake University](https://www.westlake.edu.cn/news_events/westlakenews/academics/202501/t20250117_52456.shtml)
 
 ## 2024
 
