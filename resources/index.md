@@ -39,4 +39,4 @@ nav:
 
 - MethylTree [News from Westlake University](https://www.westlake.edu.cn/news_events/westlakenews/academics/202501/t20250117_52456.shtml)
 
-- Spatio-DARLIN [BioArt] (https://mp.weixin.qq.com/s/r6i9AlJausW97Oy6nJPsoQ).
+- Spatio-DARLIN [BioArt](https://mp.weixin.qq.com/s/r6i9AlJausW97Oy6nJPsoQ).
