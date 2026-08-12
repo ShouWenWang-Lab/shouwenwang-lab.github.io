@@ -7,7 +7,7 @@ nav:
 
 ## 2026
 
-- 2026.6, In collaboration with the [Li Lab](https://lili-lineagelab.com), our paper on spatially resolved lineage tracing (Spatio-DARLIN) was published in **Nature Methods**. Congratulations to the team! [BioArt报道](https://mp.weixin.qq.com/s/r6i9AlJausW97Oy6nJPsoQ)
+- 2026.6, In collaboration with the [Li Lab](https://lili-lineagelab.com), our paper on spatially resolved lineage tracing (Spatio-DARLIN) was published in **Nature Methods**. Congratulations to the team! [BioArt](https://mp.weixin.qq.com/s/r6i9AlJausW97Oy6nJPsoQ)
 
 - 2026.5, In collaboration with the [Zhou Lab](https://zhoulab-tracing.sibcb.ac.cn), our review on lineage tracing was published in **Cell Stem Cell**. Congratulations to Siyang and the team!
 
@@ -30,11 +30,11 @@ nav:
 - 2024.10, Ruijiang got the **first poster award** in Computational Biology of the Genome conference(CSHA, Suzhou). Congratulations!
 
 ## 2023
-- 2023.11, The story behind **DARLIN & Camellia-seq** was featured by **DeepTech**, highlighting how our technology helps answer the "three philosophical questions" of each cell: who I am, where I come from, and where I am going. [Read more](https://mp.weixin.qq.com/s/MvbXwctyKg_0eA5zYb0fwg)
+- 2023.11, The story behind **DARLIN & Camellia-seq** was featured by **DeepTech**, highlighting how our technology helps answer the "three philosophical questions" of each cell: who I am, where I come from, and where I am going. [DeepTech](https://mp.weixin.qq.com/s/MvbXwctyKg_0eA5zYb0fwg)
 
-- 2023.10, Our collaborative work on **DARLIN** (a next-generation lineage tracing mouse with >10¹⁸ clonal barcodes) and **Camellia-seq** (the first single-cell multi-omics lineage tracing technology) was featured in **BioArt** with commentary by Prof. Zhou Bin. [Read more](https://mp.weixin.qq.com/s/GatRkUhPXYpSb2MAxArrzQ)
+- 2023.10, Our collaborative work on **DARLIN** (a next-generation lineage tracing mouse with >10¹⁸ clonal barcodes) and **Camellia-seq** (the first single-cell multi-omics lineage tracing technology) was featured in **BioArt** with commentary by Prof. Zhou Bin. [BioArt](https://mp.weixin.qq.com/s/GatRkUhPXYpSb2MAxArrzQ)
 
 - 2023.3, **First day of Wang lab!**
 
 ## 2022
-- 2022.2, **CoSpar** — a computational framework that predicts cell fate from lineage tracing data by overcoming key analytical bottlenecks — was highlighted by **BioArt**. [Read more](https://mp.weixin.qq.com/s/qwkJXSG8bkJDcIEH87Prbw)
+- 2022.2, **CoSpar** — a computational framework that predicts cell fate from lineage tracing data by overcoming key analytical bottlenecks — was highlighted by **BioArt**. [BioArt](https://mp.weixin.qq.com/s/qwkJXSG8bkJDcIEH87Prbw)
