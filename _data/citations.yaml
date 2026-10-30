@@ -1,6 +1,23 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: 10.64898/2026.10.08.757494
+  title: "Scalable methylome-transcriptome profiling resolves clonal organization in human hematopoiesis"
+  authors: Jikai Shao, Mengyang Chen, Yan Liu, Jinnan Sun, Guangxin Zhang, Zheng-Yi Yan, Hongying Lin, Miaomiao Ren, Shanshan Pei, Jun Peng, Yuyan Gong* & Shou-Wen Wang*
+  publisher: bioRxiv (preprint)
+  date: '2026-10-11'
+  link: https://www.biorxiv.org/content/10.64898/2026.10.08.757494v1
+  image: 'images/paper_image/Droplet-MT.png'
+  extra-links:
+  - type: preprint
+    link: pdfs/Droplet-MT.pdf
+    text: Main text
+  tags:
+  - Sequencing Platform
+  - Single-cell multiomics
+  - DNA methylation
+  - Lineage tracing
+  - AML
 
 - id: 10.1038/s41592-026-03151-5
   title: "Spatio-DARLIN enables robust and efficient in situ lineage tracing in mice at single-cell resolution"
